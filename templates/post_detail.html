@@ -112,6 +112,16 @@
     <div style="text-align: center;">
       <a href="{{ url_for('index') }}">← Quay về danh sách</a>
     </div>
+    <div class="post-nav">
+      {% if prev_post %}
+        <a href="{{ url_for('post_detail', slug=prev_post.slug) }}">← Bài trước</a>
+      {% endif %}
+      {% if next_post %}
+        <span style="float:right">
+          <a href="{{ url_for('post_detail', slug=next_post.slug) }}">Bài sau →</a>
+        </span>
+      {% endif %}
+    </div>  
   </div>
 
   <script>
