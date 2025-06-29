@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Danh sách Bài viết</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <div class="page-wrapper">
+        <h1 class="page-title">📚 Danh sách Bài Viết</h1>
+
+        <div class="series-filter">
+            <form method="get" onsubmit="return false;">
+                <label for="seriesSelect">Lọc theo bộ:</label>
+                <select id="seriesSelect" onchange="location.href=this.value">
+                    <option value="index.html">Tất cả</option>
+                    {% for series in series_list %}
+                        <option value="series_{{ series.slug }}.html"
+                            {% if current_series == series.name %}selected{% endif %}>
+                            {{ series.name }}
+                        </option>
+                    {% endfor %}
+                </select>
+            </form>
+        </div>
+
+        <div class="post-list">
+            {% for post in posts %}
+                <div class="post-item">
+                    <a class="post-link" href="posts/{{ post.slug }}.html">
+                        <strong>{{ post.title }}</strong>
+                    </a>
+                    <span class="post-series">(<i>{{ post.series }}</i>)</span>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="pagination">
+            {% if page > 1 %}
+                <a href="{{ base_name }}{{ page - 1 }}.html">← Trước</a>
+            {% endif %}
+
+            {% for p in range(1, total_pages + 1) %}
+                {% if p == page %}
+                    <strong>[{{ p }}]</strong>
+                {% else %}
+                    <a href="{{ base_name }}{{ p }}.html">{{ p }}</a>
+                {% endif %}
+            {% endfor %}
+
+            {% if page < total_pages %}
+                <a href="{{ base_name }}{{ page + 1 }}.html">Tiếp →</a>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

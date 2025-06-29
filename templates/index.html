@@ -39,12 +39,24 @@
 
     <div class="pagination">
         {% if page > 1 %}
-            <a href="?page={{ page - 1 }}&series={{ selected_series }}">⬅ Lùi</a>
+            <a href="?page=1&series={{ selected_series }}">« Trang đầu</a>
+            <a href="?page={{ page - 1 }}&series={{ selected_series }}">← Trước</a>
         {% endif %}
-        <span>Trang {{ page }} / {{ total_pages }}</span>
+
+        {% for p in range(1, total_pages + 1) %}
+            {% if p == page %}
+                <strong>[{{ p }}]</strong>
+            {% else %}
+                <a href="?page={{ p }}&series={{ selected_series }}">{{ p }}</a>
+            {% endif %}
+        {% endfor %}
+
         {% if page < total_pages %}
-            <a href="?page={{ page + 1 }}&series={{ selected_series }}">Tiến ➡</a>
+            <a href="?page={{ page + 1 }}&series={{ selected_series }}">Tiếp →</a>
+            <a href="?page={{ total_pages }}&series={{ selected_series }}">Trang cuối »</a>
         {% endif %}
     </div>
+
+
 </body>
 </html>
