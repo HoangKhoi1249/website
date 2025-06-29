@@ -1,51 +1,140 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ post['title'] }}</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ post.title }}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  <style>
+    :root {
+      --bg-color: #ffffff;
+      --text-color: #111111;
+      --link-color: royalblue;
+    }
+    body.dark {
+      --bg-color: #111111;
+      --text-color: #eeeeee;
+      --link-color: #4ea1ff;
+    }
+    body {
+      background: var(--bg-color);
+      color: var(--text-color);
+      margin: 0;
+    }
+    a {
+      color: var(--link-color);
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .theme-toggle {
+      text-align: right;
+    }
+    .theme-toggle button {
+      padding: 4px 10px;
+      cursor: pointer;
+      background: none;
+      border: 1px solid var(--link-color);
+      color: var(--link-color);
+      border-radius: 4px;
+    }
+    pre {
+      white-space: pre-wrap;
+    }
+    .font-options {
+      margin: 10px 0;
+    }
+
+    .font-sans { font-family: sans-serif; }
+    .font-serif { font-family: serif; }
+    .font-mono { font-family: monospace; }
+
+    .size-16px { font-size: 16px; }
+    .size-18px { font-size: 18px; }
+    .size-20px { font-size: 20px; }
+    .size-22px { font-size: 22px; }
+    .size-24px { font-size: 24px; }
+    .size-26px { font-size: 26px; }
+    .size-28px { font-size: 28px; }
+    .size-30px { font-size: 30px; }
+    .size-32px { font-size: 32px; }
+    .size-34px { font-size: 34px; }
+  </style>
 </head>
-<body class="detail-page">
-    <div class="page-wrapper">
-
-        <!-- 🔼 PHÂN TRANG ĐẦU TRANG -->
-        <div class="post-nav">
-            {% if prev_post %}
-                <a href="{{ url_for('post_detail', slug=prev_post['slug']) }}">⬅ Bài trước</a>
-            {% else %}
-                <span></span>
-            {% endif %}
-            {% if next_post %}
-                <a href="{{ url_for('post_detail', slug=next_post['slug']) }}">Bài sau ➡</a>
-            {% endif %}
-        </div>
-
-        <!-- 📝 NỘI DUNG CHÍNH -->
-        <h1 class="post-title">{{ post['title'] }}</h1>
-        <p class="post-series"><i>Bộ: {{ post['series'] or 'Chưa phân loại' }}</i></p>
-        <hr>
-        <pre class="post-content">{{ post['content'] }}</pre>
-
-        <!-- 🔽 PHÂN TRANG CUỐI TRANG -->
-        <hr>
-        <div class="post-nav">
-            {% if prev_post %}
-                <a href="{{ url_for('post_detail', slug=prev_post['slug']) }}">⬅ Bài trước</a>
-            {% else %}
-                <span></span>
-            {% endif %}
-            {% if next_post %}
-                <a href="{{ url_for('post_detail', slug=next_post['slug']) }}">Bài sau ➡</a>
-            {% endif %}
-        </div>
-
-        <!-- 🔙 QUAY VỀ -->
-        <br>
-        <div style="text-align: center;">
-            <a href="{{ url_for('index') }}">← Quay về danh sách</a>
-        </div>
-
+<body>
+  <div class="container">
+    <div class="theme-toggle">
+      <button id="toggle-theme">🌙 / ☀</button>
     </div>
+
+    <div class="font-options">
+      <strong>Phông chữ:</strong>
+      <a href="#" onclick="setFont('sans')">Sans</a> |
+      <a href="#" onclick="setFont('serif')">Serif</a> |
+      <a href="#" onclick="setFont('mono')">Mono</a><br>
+
+      <strong>Cỡ chữ:</strong>
+      <a href="#" onclick="setSize(16)">16</a>
+      <a href="#" onclick="setSize(18)">18</a>
+      <a href="#" onclick="setSize(20)">20</a>
+      <a href="#" onclick="setSize(22)">22</a>
+      <a href="#" onclick="setSize(24)">24</a>
+      <a href="#" onclick="setSize(26)">26</a>
+      <a href="#" onclick="setSize(28)">28</a>
+      <a href="#" onclick="setSize(30)">30</a>
+      <a href="#" onclick="setSize(32)">32</a>
+      <a href="#" onclick="setSize(34)">34</a>
+    </div>
+
+    <div class="post-nav">
+      {% if prev_post %}
+        <a href="{{ url_for('post_detail', slug=prev_post.slug) }}">← Bài trước</a>
+      {% endif %}
+      {% if next_post %}
+        <span style="float:right">
+          <a href="{{ url_for('post_detail', slug=next_post.slug) }}">Bài sau →</a>
+        </span>
+      {% endif %}
+    </div>
+
+    <h1>{{ post.title }}</h1>
+    <p><i>Bộ: {{ post.series or 'Chưa phân loại' }}</i></p>
+    <hr>
+    <pre>{{ post.content }}</pre>
+    <hr>
+
+    <div style="text-align: center;">
+      <a href="{{ url_for('index') }}">← Quay về danh sách</a>
+    </div>
+  </div>
+
+  <script>
+    const btn = document.getElementById("toggle-theme");
+    const savedTheme = localStorage.getItem("theme");
+    if (savedTheme === "dark") document.body.classList.add("dark");
+    btn?.addEventListener("click", () => {
+      document.body.classList.toggle("dark");
+      localStorage.setItem("theme", document.body.classList.contains("dark") ? "dark" : "light");
+    });
+
+    const font = localStorage.getItem("font") || "sans";
+    const size = localStorage.getItem("size") || "18";
+    document.body.classList.add(`font-${font}`, `size-${size}px`);
+
+    function setFont(f) {
+      localStorage.setItem("font", f);
+      location.reload();
+    }
+    function setSize(s) {
+      localStorage.setItem("size", s);
+      location.reload();
+    }
+  </script>
 </body>
 </html>

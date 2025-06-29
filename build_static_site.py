@@ -43,10 +43,18 @@ index_template = env.get_template("index_static.html")
 detail_template = env.get_template("post_detail_static.html")
 
 # Tạo từng trang post riêng
-for post in posts:
+for i, post in enumerate(posts):
+    prev_post = posts[i - 1] if i > 0 else None
+    next_post = posts[i + 1] if i < len(posts) - 1 else None
+
     output_path = os.path.join(POSTS_DIR, f"{post['slug']}.html")
     with open(output_path, "w", encoding="utf-8") as f:
-        f.write(detail_template.render(post=post))
+        f.write(detail_template.render(
+            post=post,
+            prev_post=prev_post,
+            next_post=next_post
+        ))
+
 
 # Tạo index.html có phân trang
 total_pages = (len(posts) + PER_PAGE - 1) // PER_PAGE
