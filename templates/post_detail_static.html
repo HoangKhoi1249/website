@@ -118,6 +118,10 @@
         <a href="{{ '../posts/' + next_post['slug'] + '.html' }}">Bài sau ➡</a>
     {% endif %}
 </div>
+  <div style="text-align: center;">
+    <a href="../index.html">← Quay về danh sách</a>
+  </div>
+
 
   <h1>{{ post.title }}</h1>
   <p><i>Bộ: {{ post.series or 'Chưa phân loại' }}</i></p>
@@ -138,7 +142,7 @@
     {% if next_post %}
         <a href="{{ '../posts/' + next_post['slug'] + '.html' }}">Bài sau ➡</a>
     {% endif %}
-</div>
+  </div>
 
   <script>
     const btn = document.getElementById("toggle-theme");
