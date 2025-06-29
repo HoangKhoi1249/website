@@ -2,6 +2,7 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bài viết tự động</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <style>
@@ -14,6 +15,13 @@
 </head>
 <body>
     <h1>📚 Danh sách Post</h1>
+
+    <form method="get" style="margin-bottom: 1em;">
+        <label>Tìm kiếm:</label>
+        <input type="text" name="q" value="{{ keyword or '' }}" placeholder="Nhập tên bài viết...">
+        <button type="submit">Tìm</button>
+    </form>
+
 
     <form method="get">
         <label>Lọc theo bộ:</label>

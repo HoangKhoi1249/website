@@ -2,25 +2,50 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ post['title'] }}</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
-<body>
-    <h1>{{ post['title'] }}</h1>
-    <p><i>Bộ: {{ post['series'] or 'Chưa phân loại' }}</i></p>
-    <hr>
-    <pre>{{ post['content'] }}</pre>
+<body class="detail-page">
+    <div class="page-wrapper">
 
-    <hr>
-    <div>
-        {% if prev_post %}
-            <a href="{{ url_for('post_detail', slug=prev_post['id']) }}">⬅ Bài trước</a>
-        {% endif %}
-        {% if next_post %}
-            <a href="{{ url_for('post_detail', slug=next_post['id']) }}" style="float: right;">Bài sau ➡</a>
-        {% endif %}
+        <!-- 🔼 PHÂN TRANG ĐẦU TRANG -->
+        <div class="post-nav">
+            {% if prev_post %}
+                <a href="{{ url_for('post_detail', slug=prev_post['slug']) }}">⬅ Bài trước</a>
+            {% else %}
+                <span></span>
+            {% endif %}
+            {% if next_post %}
+                <a href="{{ url_for('post_detail', slug=next_post['slug']) }}">Bài sau ➡</a>
+            {% endif %}
+        </div>
+
+        <!-- 📝 NỘI DUNG CHÍNH -->
+        <h1 class="post-title">{{ post['title'] }}</h1>
+        <p class="post-series"><i>Bộ: {{ post['series'] or 'Chưa phân loại' }}</i></p>
+        <hr>
+        <pre class="post-content">{{ post['content'] }}</pre>
+
+        <!-- 🔽 PHÂN TRANG CUỐI TRANG -->
+        <hr>
+        <div class="post-nav">
+            {% if prev_post %}
+                <a href="{{ url_for('post_detail', slug=prev_post['slug']) }}">⬅ Bài trước</a>
+            {% else %}
+                <span></span>
+            {% endif %}
+            {% if next_post %}
+                <a href="{{ url_for('post_detail', slug=next_post['slug']) }}">Bài sau ➡</a>
+            {% endif %}
+        </div>
+
+        <!-- 🔙 QUAY VỀ -->
+        <br>
+        <div style="text-align: center;">
+            <a href="{{ url_for('index') }}">← Quay về danh sách</a>
+        </div>
+
     </div>
-    <br>
-    <a href="{{ url_for('index') }}">← Quay về danh sách</a>
 </body>
 </html>

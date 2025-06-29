@@ -60,32 +60,50 @@ def index():
     page = int(request.args.get('page', 1))
     per_page = 5
     offset = (page - 1) * per_page
+
     selected_series = request.args.get('series', '')
+    keyword = request.args.get('q', '').strip()
 
     conn = get_db_connection()
 
     series_list = [row['series'] for row in conn.execute("SELECT DISTINCT series FROM posts")]
 
+    # Xây dựng truy vấn
     base_query = "SELECT * FROM posts"
-    where_clause = ""
+    where_clauses = []
     params = []
+
     if selected_series:
-        where_clause = " WHERE series = ?"
+        where_clauses.append("series = ?")
         params.append(selected_series)
 
-    full_query = base_query + where_clause + " ORDER BY title LIMIT ? OFFSET ?"
+    if keyword:
+        where_clauses.append("title LIKE ?")
+        params.append(f"%{keyword}%")
+
+    where_clause = " WHERE " + " AND ".join(where_clauses) if where_clauses else ""
+
+    full_query = f"{base_query}{where_clause} ORDER BY title LIMIT ? OFFSET ?"
     params.extend([per_page, offset])
+
     posts = conn.execute(full_query, params).fetchall()
 
-    count_query = "SELECT COUNT(*) FROM posts" + where_clause
+    count_query = f"SELECT COUNT(*) FROM posts{where_clause}"
     total = conn.execute(count_query, params[:-2]).fetchone()[0]
     total_pages = (total + per_page - 1) // per_page
 
     conn.close()
 
-    return render_template("index.html", posts=posts, page=page, total_pages=total_pages,
-                           series_list=series_list, selected_series=selected_series, max=max,
+    return render_template("index.html",
+                           posts=posts,
+                           page=page,
+                           total_pages=total_pages,
+                           series_list=series_list,
+                           selected_series=selected_series,
+                           keyword=keyword,
+                           max=max,
                            min=min)
+
 
 # -------------------- ROUTE CHI TIẾT POST --------------------
 @app.route('/post/<slug>')
