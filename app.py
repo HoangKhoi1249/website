@@ -84,7 +84,8 @@ def index():
     conn.close()
 
     return render_template("index.html", posts=posts, page=page, total_pages=total_pages,
-                           series_list=series_list, selected_series=selected_series)
+                           series_list=series_list, selected_series=selected_series, max=max,
+                           min=min)
 
 # -------------------- ROUTE CHI TIẾT POST --------------------
 @app.route('/post/<slug>')

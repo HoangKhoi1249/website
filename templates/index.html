@@ -39,11 +39,23 @@
 
     <div class="pagination">
         {% if page > 1 %}
-            <a href="?page=1&series={{ selected_series }}">« Trang đầu</a>
-            <a href="?page={{ page - 1 }}&series={{ selected_series }}">← Trước</a>
+            <a href="?page=1&series={{ selected_series }}">«</a>
+            <a href="?page={{ page - 1 }}&series={{ selected_series }}">Trang trước</a>
         {% endif %}
 
-        {% for p in range(1, total_pages + 1) %}
+        {% set start = max(1, page - 2) %}
+        {% set end = min(total_pages, page + 2) %}
+
+        {# Hiện 1-3 nếu ở xa #}
+        {% if start > 3 %}
+            <a href="?page=1&series={{ selected_series }}">1</a>
+            <a href="?page=2&series={{ selected_series }}">2</a>
+            <a href="?page=3&series={{ selected_series }}">3</a>
+            <span>...</span>
+        {% endif %}
+
+        {# Các trang gần hiện tại #}
+        {% for p in range(start, end + 1) %}
             {% if p == page %}
                 <strong>[{{ p }}]</strong>
             {% else %}
@@ -51,11 +63,20 @@
             {% endif %}
         {% endfor %}
 
+        {# Hiện cuối nếu ở xa #}
+        {% if end < total_pages - 2 %}
+            <span>...</span>
+            <a href="?page={{ total_pages - 2 }}&series={{ selected_series }}">{{ total_pages - 2 }}</a>
+            <a href="?page={{ total_pages - 1 }}&series={{ selected_series }}">{{ total_pages - 1 }}</a>
+            <a href="?page={{ total_pages }}&series={{ selected_series }}">{{ total_pages }}</a>
+        {% endif %}
+
         {% if page < total_pages %}
-            <a href="?page={{ page + 1 }}&series={{ selected_series }}">Tiếp →</a>
+            <a href="?page={{ page + 1 }}&series={{ selected_series }}">Tiếp »</a>
             <a href="?page={{ total_pages }}&series={{ selected_series }}">Trang cuối »</a>
         {% endif %}
     </div>
+
 
 
 </body>
