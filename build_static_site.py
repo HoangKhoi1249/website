@@ -5,7 +5,7 @@ import shutil
 import re
 
 DB_PATH = "database.db"
-OUTPUT_DIR = "static_site"
+OUTPUT_DIR = "D:/Data/Github/static_site"
 POSTS_DIR = os.path.join(OUTPUT_DIR, "posts")
 ASSETS_DIR = os.path.join(OUTPUT_DIR, "assets")
 PER_PAGE = 5
