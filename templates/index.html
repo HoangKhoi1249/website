@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài viết tự động</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body { font-family: sans-serif; margin: 40px; }
+        .post { padding: 10px; border-bottom: 1px solid #ccc; }
+        .pagination a { margin: 5px; text-decoration: none; }
+        a { text-decoration: none; color: royalblue; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>📚 Danh sách Post</h1>
+
+    <form method="get">
+        <label>Lọc theo bộ:</label>
+        <select name="series" onchange="this.form.submit()">
+            <option value="">Tất cả</option>
+            {% for series in series_list %}
+                <option value="{{ series }}" {% if series == selected_series %}selected{% endif %}>
+                    {{ series }}
+                </option>
+            {% endfor %}
+        </select>
+    </form>
+
+    {% for post in posts %}
+        <div class="post">
+            <a href="{{ url_for('post_detail', post_id=post['id']) }}">
+                <strong>{{ post['title'] }}</strong>
+            </a>
+            <i>(Bộ: {{ post['series'] or 'Chưa phân loại' }})</i>
+        </div>
+    {% endfor %}
+
+    <div class="pagination">
+        {% if page > 1 %}
+            <a href="?page={{ page - 1 }}&series={{ selected_series }}">⬅ Lùi</a>
+        {% endif %}
+        <span>Trang {{ page }} / {{ total_pages }}</span>
+        {% if page < total_pages %}
+            <a href="?page={{ page + 1 }}&series={{ selected_series }}">Tiến ➡</a>
+        {% endif %}
+    </div>
+</body>
+</html>

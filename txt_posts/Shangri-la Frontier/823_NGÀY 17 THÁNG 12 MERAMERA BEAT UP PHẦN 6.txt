@@ -1,0 +1,110 @@
+**NGÀY 17 THÁNG 12: MERAMERA BEAT UP PHẦN 6**
+
+◇
+
+Hệ thống Kênh. Đó là sự phân nhánh, hay còn gọi là sự hợp nhất của nhận thức.
+
+Tựa game Shangri-La Frontier cho phép một lượng lớn người chơi hoạt động trong cùng một thế giới (server). Thế nhưng bạn có bao giờ thắc mắc chưa? Với số lượng người dùng mới không ngừng tăng lên, và không phải tất cả những người chơi từ khi dịch vụ mới bắt đầu đều đã tiến đến Lục Địa Mới, tại sao bản đồ Cựu Lục Địa vốn chẳng rộng lớn lại không bị bão hòa bởi người chơi?
+
+Ít nhất, chưa từng có báo cáo nào về việc Rừng Hoành Hành đã bị lấp đầy bởi người chơi, hay có hàng dài người xếp hàng để thách đấu Đại Xà Tham Ăn khi trò chơi mới ra mắt. Một thành phố lớn như Thirdrema không chỉ có mười hay hai mươi NPC, mà nếu tính cả lượng lớn người chơi và NPC, số người đổ vào Thirdrema có thể lên đến hàng ngàn. Vậy tại sao lại không như vậy?
+
+Đó chính là nhờ hệ thống kênh. Mỗi người chơi được phân bổ vào một kênh cụ thể và không thể nhận biết người dùng ở các kênh khác. Nói một cách dễ hiểu, nó giống như việc có nhiều server riêng biệt trong một trò chơi MMO, nhưng tất cả được thực hiện trên một server duy nhất.
+
+Vậy tại sao lại phải làm một việc vòng vo như vậy? Để giải thích điều đó, ta sẽ phải đề cập đến sự tồn tại của Quản trị viên Thế giới, người tin tưởng tuyệt đối rằng “Shangri-La Frontier chỉ có một thế giới” và buộc mọi người xung quanh cũng phải chấp nhận điều đó, nên bây giờ tôi xin phép bỏ qua.
+
+Điều quan trọng là hệ thống kênh chỉ là sự phân nhánh nhận thức diễn ra trong một server duy nhất, và dù trong tầm nhìn của ai đó chỉ có vài chục người, nhưng thực tế có hàng trăm người ở đó. Đồng thời, nếu đáp ứng được “điều kiện để được nhận biết xuyên kênh”, một cá nhân cụ thể có thể được tất cả người chơi nhận biết… Chỉ cần hiểu rõ điều đó là được.
+
+Điều quan trọng là……………
+
+“Hiệu nghiệm rồi!!”
+
+“Thế là khi ở dạng này, thân chính trống rỗng sao?!”
+
+“Mắt nó ngừng rồi! Xông lên! Xông lên! Xông lên!”
+
+Hình ảnh những người chơi đã giáng “đòn đánh hiệu quả” rõ rệt trong trận chiến với Đại Xích Sí Bùng Cháy, tiếng reo hò của những người chứng kiến, và “kẽ hở” lộ ra của Đại Xích Sí đã truyền đến tất cả người chơi chiến đấu tại đây, xuyên qua bức tường kênh.
+
+“Kyyyyyyyyyyyyyyy!!”
+
+Đại Xích Sí Bùng Cháy, dù đã bị lột bỏ phần lớn đôi cánh lửa, vẫn phát ra tiếng rít chói tai và nhanh chóng tái tạo lại cánh bằng cách sản sinh năng lượng. Nhưng một khi con mồi đã lộ ra vẻ yếu ớt, theo lẽ tự nhiên, lũ thú ăn thịt đói khát sẽ ùa đến và xâu xé.
+
+“Khi nó lộ nhãn cầu thì không có phòng thủ!”
+
+“Oikazzo, xông lên dồn dập chứ?”
+
+“Không, nếu nó có cả hình thái phòng thủ và tấn công thì từ đây mới là lúc phải nhảy dây thôi!”
+
+Ngay sau khi Oikazzo bác bỏ câu hỏi của Eternal Zero, người đang giơ Entropy Eater lên, vô số Thiêu Nhãn Cầu đang lơ lửng trên không trung đột ngột biến mất.
+
+“Nó đã củng cố phòng thủ rồi!!”
+
+“Đập nát nó đi!”
+
+“Á, đồ ngốc! Chạm vật lý vào là thua ngay đó!!”
+
+Trong tình thế chiến trường đang dần hỗn loạn do sự phấn khích đột ngột, Oikazzo nhìn thấy một vài người đã bị đóng băng thành tượng đá và cất tiếng nói vang dội:
+
+“Khi nó phòng thủ bằng băng, hãy dùng ma thuật băng để phá vỡ lớp phòng thủ! Khi nó mở mắt, hãy tấn công thân chính! Các đấu sĩ vật lý vẫn chờ đợi! Cố lên các pháp sư!!”
+
+Oikazzo không có những chiến lược tỉ mỉ như Pencilgon, người luôn tuân thủ kịch bản đã vạch sẵn.
+
+Oikazzo cũng không có sự mạnh mẽ kéo người khác đi theo cảm xúc tức thời như Sunraku.
+
+Vì vậy, Oikazzo tập hợp mọi người bằng cách chứng minh kết quả. Anh không phân biệt kẻ thù hay đồng minh, người chơi hay NPC, không coi mạng người như quân cờ trên bàn cờ tướng, cũng không tiên phong chạy theo con đường đúng hay sai và buộc người khác phải theo. Anh giành được sự tin tưởng bằng cách cho thấy kết quả: “Làm thế này thì sẽ thắng.”
+
+Chính vì thế, các pháp sư tại đó đã nhận ra Oikazzo, người đã chứng minh được năng lực của mình, và theo chỉ dẫn vang vọng xuyên các kênh, vô số phép thuật đã được giáng xuống Đại Xích Sí Bùng Cháy. Ban đầu, các phép thuật còn rời rạc, nhưng dần dần chúng hội tụ về giải pháp tối ưu, và hình dáng của Đại Xích Sí Bùng Cháy dần bị bào mòn, thu nhỏ lại.
+
+“Thế này thì phái vật lý chẳng cần thiết nữa sao?”
+
+“––Không, không phải vậy.”
+
+Nhìn cảnh tượng đó, Eternal Zero bác bỏ lời lầm bầm của một người.
+
+Dù là một người chơi có vẻ ngoài kỳ quái bậc nhất Shangri-La Frontier khi thu nhỏ cơ thể xuống ngang tầm một đứa trẻ năm tuổi, nhưng về những thông tin liên quan đến Behemoth, anh ta sở hữu một lượng kiến thức khổng lồ sánh ngang với một thư viện.
+
+Sở dĩ như vậy là vì Eternal Zero, người đã liên tục tra cứu cơ sở dữ liệu qua một “quá trình học tập với mẹ” mà người bình thường khó có thể hiểu được, còn tích cực tham gia tranh luận với các thành viên của nhóm “Library” thường trú tại Behemoth, từ đó nắm rõ nhiều thông tin khác nhau… đặc biệt là những hiểm họa nguyên thủy mà thời Thần Đại đã phải đối mặt.
+
+“Trong thời Thần Đại, Đại Xích Sí Bùng Cháy được đánh giá là ít nguy hiểm. Đó là vì nó hầu như không thể hiện địch ý khi tập trung sản xuất năng lượng… Nhưng dữ liệu của Behemoth ghi lại rằng khi nền văn minh Thần Đại sử dụng nó làm nguồn năng lượng, nó đã có hành vi thù địch.”
+
+“Tóm lại là gì?”
+
+“Nhiệt chỉ là tác dụng phụ thôi, bản chất của nó… là một “khối sức mạnh (năng lượng) vô tận”. Nó không chỉ dùng nhiệt năng đâu, nó có thể sử dụng mọi loại “sức mạnh”!”
+
+Hiểu biết. Đó chính là nguyên tắc tối thượng trong thế giới Shangri-La Frontier. Nhận biết dẫn đến hiểu biết, và hiểu biết dẫn đến đối sách.
+
+Oikazzo đã có kinh nghiệm chiến đấu với Đại Dịch Thanh Lang Thang. Dù Đại Xích Sí Bùng Cháy và Đại Dịch Thanh Lang Thang là hai quái vật hoàn toàn khác biệt… nhưng chúng đều là “Tộc Nguyên Thủy (Raid Monster)”.
+
+Nếu vậy, khi nào thì nó sẽ bắt đầu làm điều mà nó chưa từng làm?
+
+Câu trả lời chỉ có một.
+
+“Boooooooooooooooooooommmmmm……!!”
+
+––Thứ đó, là quyến thuộc trung thành nhất của thần.
+
+––Con bướm ấy, vốn chỉ mong muốn sự vĩnh cửu cho giống loài mình, đã không hề từ chối trở thành một phần của vị Thần Trắng vĩ đại, mà chỉ trung thành thực hiện nhiệm vụ được giao.
+
+––Tuy nhiên, vĩnh cửu tức là ổn định. Nếu sự ổn định đó bị phá vỡ, con bướm phải tự mình bảo vệ bản thân.
+
+––Vì vậy, con bướm… sinh vật từng sải cánh như một sinh mệnh cụ thể từ thời cổ xưa xa xăm, đã cầu xin Thần Trắng.
+
+––Xin Người ban cho con một khoảnh khắc thảnh thơi. Xin Người cho phép con tùy ý sử dụng toàn bộ sức mạnh phát ra từ thân mình, những vật hiến tế đã dâng lên Người.
+
+––Thi hài đã đáp lời.
+
+“Lời giao ước trói buộc Đại Xích Sí Bùng Cháy đã được giải trừ–––”
+
+“Thân thể đỏ khổng lồ đang hồi sinh–––”
+
+“Nguyên Thủy (Primal) Giải Quy (Revolve)!”
+
+––Hãy tung hoành thỏa sức, hỡi kẻ vĩ đại từng vượt qua núi sông từ thuở xa xưa.
+
+**Lời bạt của tác giả:**
+
+Màu đỏ = lửa, đó là một quan niệm hiện đại hóa nhé.
+Từ thời xa xưa hơn cả Thần Đại, trong thời kỳ Nguyên Thủy, một chủng tộc nhất định trước khi trở thành bướm nira là một khối năng lượng nguyên thủy và bản chất hơn.
+Vì trách nhiệm không cao nên chúng không đặc biệt kháng cự việc được Thần Trắng chiêu mộ.
+Bướm Nira: “Nếu được nuôi dưỡng thì dù bị hấp thụ cũng được ạ.”
+
+Và về hệ thống kênh, tôi đã có ý thức về nó từ khoảng thời kỳ Đại Chiến Rồng, nên đây không phải là một thiết lập đột ngột. Chẳng qua vì tôi không mô tả nó vào thời điểm Đại Chiến Rồng nên không có cơ hội giải thích cho đến bây giờ…

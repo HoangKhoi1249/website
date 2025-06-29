@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ post['title'] }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>{{ post['title'] }}</h1>
+    <p><i>Bộ: {{ post['series'] or 'Chưa phân loại' }}</i></p>
+    <hr>
+    <pre>{{ post['content'] }}</pre>
+
+    <hr>
+    <div>
+        {% if prev_post %}
+            <a href="{{ url_for('post_detail', post_id=prev_post['id']) }}">⬅ Bài trước</a>
+        {% endif %}
+        {% if next_post %}
+            <a href="{{ url_for('post_detail', post_id=next_post['id']) }}" style="float: right;">Bài sau ➡</a>
+        {% endif %}
+    </div>
+    <br>
+    <a href="{{ url_for('index') }}">← Quay về danh sách</a>
+</body>
+</html>

@@ -1,0 +1,155 @@
+NHỮNG SINH VẬT NHƯ THẾ ĐẤY
+
+Ba người gộp lại thành trí tuệ Văn Thù. Văn Thù hình như là tên của một vị thần? Hay Bồ Tát? Nếu vậy, sáu người gộp lại theo phép tính đơn giản sẽ có được trí tuệ gấp đôi. Hai Văn Thù…!!
+
+Tôi tình cờ nhận ra điều đó.
+
+Khi tôi, Rust và Ray bước vào khối lập phương, ba người Mord, Survival và Yashirobird ở bên ngoài đã quan sát thấy chiếc hộp di chuyển.
+
+Và sau nhiều lần thử nghiệm, chúng tôi nhận ra rằng chỉ có bốn người là tôi, Ray, Rust và Yashirobird mới có thể di chuyển chiếc hộp khi bước vào không gian này. Vậy điều gì đã chia cắt chúng tôi với Survival và Mord?
+
+“Không phải là cặp đôi bị vặt sạch tiền sao, hả?”
+
+“Hà hà hà…”
+
+“Không, tôi sẽ trả lại đầy đủ mà…”
+
+“…Trả sau không được sao?”
+
+Rust, cậu không có lòng người sao? Mà thôi, trường hợp của Rust thì có lẽ không sao vì cậu ấy có thể kiếm tiền ngay lập tức với chút công sức… nhưng cái điểm nhìn đó, có vẻ không sai chút nào đâu.
+
+Thứ mà tôi, Ray, Rust, Yashirobird có, còn Mord và Survival thì không.
+
+Từ “lồng” mà “Isana” đã nói khi tôi hỏi về chiếc hộp này trên bản đồ.
+
+Và nếu tầng một là mê cung, tầng hai là nông trại, tầng ba là khu giải trí, thì khi nghĩ về khái niệm tổng thể của tầng vỏ thứ tư, câu trả lời sẽ hiện ra.
+
+“———Là giỏ hàng.”
+
+“Cái gì cơ?”
+
+“Điểm khác biệt giữa chúng ta và các cậu là có mua đồ ở đây hay không. Tôi, Ray và Rust đã mua Inventoria, Yashirobird mua Chestoria. Còn các cậu, những người đã cho hai tên ngốc kia vay tiền, thì chẳng mua gì cả!”
+
+“…Hai tên ngốc?”
+
+Các cậu có tư cách gì mà phản bác chứ.
+
+“Vậy thì, ý là…”
+
+“Là tổng số tiền mua sắm… khiến nó đi xuống, phải không ạ?”
+
+“À, ra vậy, chiếc hộp này… là sự kết hợp giữa cân và thang máy sao. Càng nặng thì càng rơi xuống dưới… nhưng đó là cảm giác của chúng ta khi ở bên trong, còn nhìn từ bên ngoài thì chiếc hộp này lại đang đi lên tầng vỏ thứ năm.”
+
+Khốn kiếp, hóa ra là vậy. Nếu cơ chế của tầng vỏ thứ tư là cái này, thì tầng vỏ thứ ba chỉ là một trò hề lố bịch.
+
+Tôi quay lại nhìn chằm chằm vào hình chiếu ba chiều đang hiện ra trong không gian với vẻ mặt như thể rất công bằng.
+
+“Cái này… rõ ràng là bắt chúng ta phải kiếm điểm ở tầng ba mà…”
+
+“Điều tôi muốn thấy là ý chí tiến lên phía trước của các vị. Bất kể bằng cách nào, bất kể con đường nào… bước chân không ngừng nghỉ của các vị là điều vô cùng thú vị khi được chứng kiến.”
+
+“Này Survival, cái tên này bắt đầu nói chuyện cứ như trùm cuối ấy.”
+
+“Tôi thì ngay từ đầu đã nghĩ có thuyết trùm cuối rồi.”
+
+“Đúng là đồ tệ hại, dám thao túng chúng ta sau nụ cười rồi cướp điểm…!”
+
+“Không Yashirobird, cậu làm gì mà đứng về phe chính nghĩa thế hả?”
+
+“Phá sản mười phần là do tự chuốc lấy đấy chứ.”
+
+“Hả, không phải là đến lượt tố cáo “Isana” sao?”
+
+Điều tôi muốn nói là tôi đang phàn nàn về việc nó giả vờ là một khu giải trí công bằng nhưng lại là một cơ sở thu tiền với mọi chiêu trò gian lận. Đơn giản là một tên ngốc gần phá sản không có tư cách để tố cáo đâu.
+
+“Nhưng cái này phải chồng rất nhiều tiền mới được chứ? Ngay cả tổng Inventoria và Chestoria cũng không đủ để lên trên sao…”
+
+“…Mord, chỉ trong này mới hiện ra cửa sổ khác.”
+
+“Hả?”
+
+Thật vậy, mấy cái cửa sổ chỉ hiện ra ở những nơi cụ thể thường là bẫy cho người mới… Cái gì thế nhỉ?
+
+“SP và DP… SP chắc là Score Point (điểm số) phải không?”
+
+“Thế còn DP là gì?”
+
+“Đó là Danger Point (điểm nguy hiểm) ạ.”
+
+Đúng là lúc thì tốt bụng một cách kỳ lạ, lúc thì lại bất lịch sự một cách kỳ lạ… Score Point đúng nghĩa là điểm số, có thể hiểu là tổng giá trị của các vật phẩm đã mua và mang vào phòng này. Vậy thì cái Danger Point thấp bất thường này là…
+
+“Mức độ nguy hiểm, sao?”
+
+Mặc dù tính hữu dụng của Inventoria đã bị giảm sức mạnh nhiều lần, nhưng nó vẫn rất mạnh. Tuy nhiên, nếu nói về độ nguy hiểm về mặt vật lý thì… khó mà nói nó nguy hiểm hơn một con dao. Ngay cả khi có thể lấy ra những vật phẩm nguy hiểm, bản thân Inventoria cũng chỉ là một công cụ dịch chuyển mà thôi.
+
+“Tức là sao đây? Có nghĩa là cứ ném vũ khí nguy hiểm và đắt tiền vào là được à?”
+
+“…Chỉ còn cách kiếm tiền ở tầng ba thôi.”
+
+“Làm thế nào đây?”
+
+“Cả bọn quay lại kiếm tiền lại… không, hay là Rust và Yashirobird ở lại đây tìm vũ khí có DP cao thì tốt hơn?”
+
+“…Về thẩm mỹ thì…”
+
+“Tôi tự tin.”
+
+Dù không phải là không có lo lắng ở những khía cạnh khác, nhưng tôi và Survival thì về bản chất sẽ không chịu nổi việc phải xem xét tỉ mỉ từng chút một về hiệu suất của vũ khí và áo giáp, nên có lẽ họ là người phù hợp nhất.
+
+“Vậy thì vấn đề là kiếm tiền bằng cách nào đây, nhưng… về khoản đó thì tôi có vài mối rồi.”
+
+◆
+
+“Sa, Sanraku-san… Đây, tiền đã hứa đây. Thế nên…”
+
+“Cậu đừng có đóng vai kiểu giao dịch ma túy như thế được không?”
+
+“À, xin lỗi.”
+
+“À, vậy thì Renga-san. Đây là bộ bài Thủy Tinh Quần Hạt mà bên này đã rao bán, xin hãy kiểm tra số lượng lá bài bên trong.”
+
+“Thủy Tinh Quần Hạt, Kim Tinh Độc Hạt… Hừ, ghê thật, không ngờ cái này lại có thể dùng được đấy.”
+
+“Dù tôi là người rao bán nhưng nói thế này thì hơi lạ, bộ bài này dùng được không? Tỷ lệ gặp trục trặc có cao không?”
+
+“À không, ý tôi là, cái tôi muốn chỉ là hai lá “Phân Hóa Tiến Hóa Trong Môi Trường Cực Đoan” và “Cắt Tỉa Phân Hóa” này thôi. Vì cảm thấy họ sẽ không bán lẻ, nên tôi định mua cả bộ bài luôn.”
+
+“…Tức là chỉ vì hai lá bài này thôi sao?”
+
+“Game thủ bài thì, là những sinh vật như vậy đấy.”
+
+…
+
+…………
+
+………………
+
+“Này “Isana”, cái này chẳng phải là bán lại sao?”
+
+“Đây là giao dịch thông qua hệ thống được nhà phát hành chính thức quy định, nên chắc không phải là bán lại đâu ạ?”
+
+À, ra vậy, tức là không có vấn đề gì cả.
+
+Trước khi lên tầng bốn, nhờ cuộc trò chuyện với “Isana” mà tôi đã có được lý lẽ chính đáng, và tạm thời phát huy tài năng tuyệt vời của một nhà giả kim. Đó chính là, trò chơi bài = trò chơi tiền bạc, tổ chức đấu giá tận dụng tối đa lợi thế mà hiện tại chỉ có tôi sở hữu.
+
+Lá bài Thủy Tinh Quần Hạt này vốn dĩ có vẻ là một lá có tỷ lệ xuất hiện thấp hơn nhiều. Nhưng gói bài của tôi lại bị lỗi, nên tôi rút được vô số Thủy Tinh Quần Hạt, ngay cả quái vật hiếm như Kim Tinh cũng ra được hai, ba lá nếu rút mười gói. Tức là, tôi có thể lắp được bộ bài Thủy Tinh Quần Hạt với giá rẻ hơn những người khác.
+
+Thế là tôi thử tổ chức đấu giá. Dù tôi không biết giá thị trường, nhưng những game thủ bài cạnh tranh nhau để giành lấy nó sẽ tự động định giá. À không, nói đúng hơn là họ còn định giá cao hơn cả giá thị trường nữa chứ.
+
+“Giả sử có mua bộ bài từ tôi rồi bán lại thì cũng vô ích thôi.”
+
+Kho hàng của tôi thì chỉ cần dùng một phần mười thu nhập là có thể bổ sung bao nhiêu tùy thích, và như Renga-san vừa rồi, có vẻ mọi người đều khao khát có được những lá bài nhất định đến mức muốn rớt cả cổ họng ra….
+
+“Người kinh doanh lớn nhất, cái âm thanh thật ngọt ngào biết bao…”
+
+“Theo lý thuyết đó thì “Isana” mới là người kinh doanh lớn nhất chứ?”
+
+“Vậy thì, thưa vị kinh doanh lớn nhất, cái này hiếm đến mức nào?”
+
+“Đó là True Rare ạ, một lá bài hiếm có thể mở rộng kho bài của Experience Pack. Nếu được phép nói theo cảm nhận của “Isana” thì… chắc chắn sẽ rất được ưa chuộng đó ạ.”
+
+“Lời đó, tuyệt vời ông mặt trời luôn.”
+
+Nào… kiếm tiền thôi.
+
+Game thủ bài là những sinh vật như thế đấy.

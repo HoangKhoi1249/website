@@ -1,0 +1,113 @@
+SHANGRI-LA FRONTIER ~THỢ SĂN GAME RÁC, THỬ THÁCH GAME THẦN~ - 19 THÁNG 12: ĐẤU TRÍ CƠ KHÍ
+
+◇
+
+Echo, streamer thuộc đội lính đánh thuê GUN! GUN! Trong quá trình nghiên cứu về cách di chuyển của họ, người để lại ấn tượng sâu sắc nhất trong tâm trí của Rust vẫn là nhân vật này. Bất kể là loại súng nào, hắn đều có thể vừa xung phong vừa sử dụng thuần thục. Tỷ lệ thắng trong các cuộc đấu tay đôi, tức là những trận đối mặt trực tiếp, mà Rust xem trong các video đã lên đến gần chín mươi phần trăm. Dù đương nhiên khi bị ba người trở lên nhắm đến thì hắn thường bị hạ gục, nhưng ngay cả trong những tình huống đó, việc hắn hạ được hai trong số ba người cũng không phải là chuyện hiếm.
+
+(…Chỉ riêng người chơi đó là khác biệt. Không phải những người khác yếu kém về kỹ năng người chơi, mà là… hắn ta quá mạnh.)
+
+Dù đại bác có nhắm vào mình, hay chiếc xe từ bên cạnh đang lao tới với tốc độ kinh hoàng để nghiền nát mình, hắn tuyệt đối không rời mắt khỏi mục tiêu. Cái gan dạ đáng sợ đó đã giúp hắn đạt được tỷ lệ thắng phi thường trong các trận đấu 1 đấu 1… Trước khi tham gia sự kiện này, Rust đã phỏng đoán như vậy, nhưng khi thực sự đối mặt, cậu mới nhận ra.
+
+“……Mạnh thật.”
+
+Chẳng cần lý lẽ phức tạp, chỉ cần viên đạn bắn ra chắc chắn trúng đối thủ thì đa phần các trận đấu đều có thể thắng. Hắn hẳn là kiểu người có thể thực hiện điều đó một cách tự nhiên.
+
+Trong thoáng chốc, Rust nhìn thấy cỗ máy của Ecrare. Dù là một cỗ máy kiểu hình cầu trông có vẻ chẳng thể nào cơ động tốc độ cao, nhưng nó lại mang hình dáng kỳ lạ, tròn trịa. Rust, người tự tin rằng mình là người dốc sức nghiên cứu chiến thuật cơ trong Shanfro hơn bất kỳ ai, đã có thể đoán được phần nào hiệu suất của nó qua hình dáng đó.
+
+(…Giống như Tiêu Ngạc Phi Toái (Sengaku Hisai), nó được trang bị khả năng tăng tốc bùng nổ, đổi lại là thời gian kích hoạt bộ đẩy bị giới hạn tối đa.)
+
+Khi tự chế tạo chiến thuật cơ từ đầu, có rất nhiều yếu tố có thể can thiệp. Đương nhiên là vũ khí và màu sơn được trang bị, nhưng cũng có thể tháo bỏ toàn bộ giáp cơ bản để lộ khung máy, thậm chí còn có thể xem xét kỹ lưỡng tính chất của động cơ đẩy, vật liệu giáp, và cả thiết bị tính toán. Đây là một nội dung quá sâu sắc đối với một yếu tố trong game, đến mức ngay cả Rust cũng không hiểu hết được… Tuy nhiên, một khi đã theo đuổi “sức mạnh”, thì cũng giống như hệ sinh thái có hình kim tự tháp, càng lên cao số lượng càng ít đi và trở nên tinh nhuệ hơn.
+
+Lớp giáp tròn trịa được dùng để lướt và bật nảy, giống như trong “Phạt Trảm Khải Thanh”. Bộ đẩy đặc trưng chuyên dùng cho chạy nước rút, còn trang trí kiểu cao bồi thì… chắc là sở thích. Nó có một vài vũ khí tích hợp, nhưng phần lớn hỏa lực phụ thuộc vào các bao súng gắn ngoài.
+
+(Không có tính năng hỗ trợ bắn tỉa, dù cho hệ điều hành có hỗ trợ ở một mức độ nào đó đi chăng nữa… Chẳng lẽ, hắn đã bắn tỉa bằng cách “bắn ngang hông”?)
+
+Không ngắm qua ống ngắm, mà nhắm bằng mắt thường rồi bắn. Hoặc bằng cách đồng bộ với chiến thuật cơ, có thể tạo ra điều kiện tương tự như khi ngắm qua ống ngắm dù đang ở tư thế bắn ngang hông… nhưng tư thế bắn này vẫn không ổn định và không phù hợp cho việc bắn tỉa… Chỉ là.
+
+(Nếu có thể làm được điều đó thì….)
+
+Vừa hình dung những khả năng, vừa nghĩ có lẽ mình đã đoán đúng, Rust cẩn thận khoác lên mình chiếc chiến thuật cơ đã được triển khai giữa làn khói.
+
+Đối thủ chắc chắn đã nắm bắt chính xác vị trí của Rust. Có thể là qua âm thanh, khói, hoặc cũng có thể là trực giác. Nhưng việc hắn không bắn dù đã biết vị trí, khả năng có thể là…
+
+(…Hắn đang chờ mình lộ diện. Định solo chăng?)
+
+Không, hắn chắc chắn đang muốn solo. Dù sao thì đây cũng là người điều khiển chiến thuật cơ bí ẩn đã đánh bại các thành viên khác của Eclair, một trận tay đôi với người này chắc chắn sẽ mang lại lợi ích lớn.
+
+(Hiểu rồi.)
+
+Và đó cũng là điều Rust mong muốn. Thể hiện sức mạnh và khiến đối thủ phải hiểu… vì đó cũng là một trong những mục đích bí mật mà Rust đã ấp ủ.
+
+“……Được thôi, tôi chấp nhận.”
+
+“Ồ?”
+
+“……Tôi đã nói là chấp nhận đấu 1vs1 (tay đôi).”
+
+“……Hay lắm, đúng lúc thế này mà cậu còn hăng hái thế thì quý hóa quá còn gì. Bởi vì…”
+
+“Đúng là quý thật, bên này thành viên đã gần như tàn phế một nửa rồi mà… Thật đấy, cậu mạnh quá đấy, quý ngài à.”
+
+“Mà thôi, đương nhiên là tôi sẽ không đánh lén từ phía sau để phá hỏng trận solo đâu… Chỉ là tôi sẽ không khách khí mà tấn công thẳng vào đại bản doanh thôi.”
+
+“……Sao tôi vẫn chưa chết nhỉ, cái tên Chocolate kia đã chết trước rồi mà.”
+
+Bắt đầu từ chiếc chiến thuật cơ (Donut) cụt tay trái, vẫn sống sót một cách đáng ngạc nhiên đến mức Rust cũng phải bất ngờ, ba thành viên còn lại của đội lính đánh thuê GUN! GUN! dần tách khỏi Rust và đồng đội. Có vẻ như họ thực sự không có ý định đánh lén từ phía sau.
+
+“Được rồi… tín hiệu bắt đầu sẽ là gì đây?”
+
+“……Hay là quay lưng lại rồi đi năm bước?”
+
+“Hay đấy!”
+
+Mọi chuyện thực sự diễn ra như thế. Không biết là do sự vô tư hồn nhiên tột độ, hay là sự kiêu ngạo tự tin sẽ thắng bất kể điều kiện gì, hay có lẽ… là lòng khoan dung vì có thể tận hưởng cả thắng lẫn thua một cách bình đẳng. Rust, người xuất hiện từ trong làn khói với chiến thuật cơ "Màu Đỏ Tía", đứng quay lưng lại với chiến thuật cơ của Ecrare… mang tên Điện Kích Quả Tử (Eclair) số 3 @GGMC, thứ mà hắn ta đã cẩn thận cất hai khẩu súng lục trở lại bên hông.
+
+Đối với những người đang quan sát trận chiến qua tấm gương bằng thiên thạch mà Ecrare đã bày ra, cảnh tượng này chắc hẳn sẽ trông vô cùng kỳ lạ. Bởi lẽ, một chàng cao bồi màu đồng trông có vẻ béo phì, và một võ sĩ màu đỏ tía với "nắm đấm" khổng lồ, đang đứng quay lưng vào nhau để chuẩn bị cho một cuộc đấu súng nhanh.
+
+“Mộ…t.”
+
+Một bước, tiến lên.
+
+“……Hai.”
+
+Hai bước, tiến lên.
+
+“Ba.”
+
+Ba bước, tiến lên. Một tiếng “Gagon” vang lên khi nắm đấm màu đỏ tía của chiến thuật cơ Rust tạo ra âm thanh cơ khí.
+
+“Bốn.”
+
+Bốn bước, tiến lên. Tiếng “Gary” vang lên từ chiếc cựa màu đồng ở gót chân.
+
+Một nhịp đập đó, tựa như một giờ đồng hồ tĩnh lặng──────
+
+““Năm!””
+
+Khoảnh khắc tiếp theo, Điện Kích Quả Tử số 3 @GGMC màu đồng, không hề quay đầu lại, đã rút khẩu súng lục ở hông và bắn thẳng về phía sau.
+
+“……Khựt!!”
+
+Nhưng, đúng vào khoảnh khắc đó, chiếc chiến thuật cơ màu đỏ tía khổng lồ đã kích hoạt toàn bộ bộ đẩy trên khắp cơ thể để tạo ra một vòng quay cực mạnh sang phải, và một cú đấm lật ngược từ nắm đấm khổng lồ, được phóng ra bởi lực tăng tốc và lực ly tâm khủng khiếp, đã đánh bay viên đạn từ phía bên.
+
+“Húuu! Giỏi lắm đấy!”
+
+“……Diễn xiếc à.”
+
+“Đúng là tài lẻ của tôi mà!”
+
+Lần này, Điện Kích Quả Tử số 3 @GGMC cuối cùng cũng quay lại, và trong lúc nào không hay đã cầm thêm một khẩu súng lục nữa ở tay còn lại, sẵn sàng tư thế song súng.
+
+Và RS:◇"Tiêu Ngạc Phi Toái (Sengaku Hisai)" đang giữ tư thế chiến đấu với nắm đấm giơ cao, dáng người nghiêng về phía trước một cách kỳ lạ.
+
+Kẻ xâm lược mạnh nhất và người phòng thủ mạnh nhất. Trận chiến tay đôi giữa thép và thép, giữa tiếng súng và tiếng đấm, đã chính thức bắt đầu.
+
+・RS:◇"Tiêu Ngạc Phi Toái (Sengaku Hisai)"
+Một loại chiến thuật cơ hình hộp (Cube-men) chuyên về cận chiến, được chế tạo với ý tưởng cực kỳ chuyên biệt: đặc hóa đối kháng chiến thuật cơ và đặc hóa chiến đấu tầm gần. Tương tự như Corasias Lilac mà Sunraku đã tạo ra ở Nephilim Hollow, toàn thân nó được trang bị bộ đẩy (booster) và giáp tấn công. Khi tấn công, việc kích hoạt bộ đẩy giúp tăng cường đáng kể uy lực của các đòn cận chiến. Nói tóm lại, đây là một loại máy chiến đấu chuyên đánh cận chiến với khái niệm cực kỳ đơn giản: "Không gục ngã, chỉ hạ gục đối thủ". Phạm vi tấn công là 2 mét nhưng tầm hiệu quả lại là 10 mét. Lý do là trong phạm vi 10 mét, nó có thể rút ngắn khoảng cách trong vòng 2 giây nhờ kích hoạt tối đa bộ đẩy.
+
+Tiện thể nói thêm:
+
+・RS:◇"Ngọc Thạch Cổn Công (Gyokuseki Konkou)"
+Một loại Cube-men chuyên về bắn tầm xa, đặc hóa đối kháng chiến thuật cơ, dù không đến mức như Tiêu Ngạc Phi Toái. Nó được thiết kế với một khái niệm đơn giản nhưng đòi hỏi kỹ năng cao của người điều khiển: vừa kiềm chế đối thủ bằng vũ khí bắn ngoài "Thạch", vừa kết liễu bằng khẩu pháo hỏa lực lớn "Ngọc" được tích hợp trong thân chính. Khẩu pháo hỏa lực lớn "Ngọc" có thể trượt trên đường ray từ lưng xuống hông, cho phép bắn từ vai hoặc từ hông, và thậm chí có thể xoay nòng ra phía sau để thực hiện các đòn pháo kích bất ngờ.
+
+Đây chính là thứ đã biến Honey Toast thành một tổ ong.

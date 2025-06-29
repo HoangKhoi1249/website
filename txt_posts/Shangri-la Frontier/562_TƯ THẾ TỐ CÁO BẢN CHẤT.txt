@@ -1,0 +1,125 @@
+TƯ THẾ TỐ CÁO BẢN CHẤT
+
+Đáng tiếc là không có trò chơi nhóm nào của hãng game lâu đời kia làm tôi hứng thú cả. À không, đây là nói theo góc nhìn của một game thủ chuyên cày game dở, chứ không phải tôi đang nói xấu đâu nhé, ngược lại, đáng tự hào ấy chứ.
+
+Tiếp theo là... À, Nefhoro 2 à. Hừm, hóa ra họ cũng tiết lộ kha khá thông tin đấy chứ...
+
+“Natsume-chan đã chơi Nefhoro bao giờ chưa?”
+
+“Ừm, ngoài game đối kháng ra thì tôi cũng không hay chơi game lắm đâu... Không phải ghét bỏ gì, chỉ là đơn giản không có hứng thú thôi.”
+
+“Thật ra tôi cũng chưa chơi bao giờ. Nhưng tôi có mấy người bạn đang chơi, họ cứ nhiệt tình giới thiệu mãi thôi.”
+
+Tôi thì không có giới thiệu đâu, vậy chắc là Rust rồi. Bình thường cô ta khá ổn, nhưng cứ không báo trước là lại biến thành “Quỷ nữ cuồng Nefhoro”, phiền thật đấy. Mà nhắc mới nhớ, với tôi thì cô ta biến thành “Quỷ nữ đe dọa Nefhoro”, dù sao thì tôi cũng sẽ mua thôi mà.
+
+◇
+
+[Lữ Lang]
+
+Rust: Nefhoro 2 hay lắm đó!!!!!!!
+
+Sunraku: Ôi trời, “Quỷ nữ cuồng Nefhoro” lại xuất hiện rồi.
+
+Mold: Rust nhà tôi xin lỗi mọi người nhé...
+
+Vua Kỵ Sĩ Bút Chì: Thú thật thì tôi cũng hơi muốn mua rồi đấy, chiêu quảng cáo này thành công thật.
+
+Akitsu Akane: Tùy thuộc vào tiền tiêu vặt của tôi thôi!!
+
+Rust: Thôi để tôi trả tiền cho!
+
+Kyogoku: Chị Rust, bình tĩnh nào.
+
+◇
+
+“Vậy là, hôm nay đây... Quả thật là! Sự kết hợp trong mơ giữa công nghệ AR tân tiến nhất và VR đời mới nhất đã thành hiện thực! Mời quý vị cùng nhìn lên trên!!”
+
+Theo lời cô Sasahara được chiếu bằng hình ảnh ba chiều, tôi ngước lên thì thấy một vật gì đó mỏng như tấm ván đang bao phủ toàn bộ khán phòng. Trần nhà ư? Không phải, đây là... sàn nhà.
+
+“Đây chính là cảnh tượng đang diễn ra tại gian hàng thử nghiệm trước của Nefilim Hollow 2! Cảnh tượng trong không gian VR được chiếu bằng AR, ngược lại, không gian VR được tạo ra dựa trên hình ảnh của thế giới thực... Đúng là tái hiện tương hỗ!!”
+
+Thế giới máy tính kết hợp với thực tại... là MR à. Hiểu rồi, đại khái là vậy, tức là họ sẽ trình diễn một trận đấu robot hoành tráng ngay trên không trung của thế giới thực.
+
+“Thông minh thật. Việc này có thể làm được chắc chắn sẽ gây chấn động lớn trong nhiều cộng đồng game. Mà khỏi phải nói, lợi thế mà trò chơi được dùng làm hình mẫu này nhận được sẽ khủng khiếp đến mức nào.”
+
+Rust đúng là số đỏ thật. Nefhoro vốn dĩ đã là một tựa game hay, trừ cái cảm giác điều khiển hơi tệ. Nếu bản tiếp theo không để lũ khỉ thiết kế thì chắc chắn sẽ là một game thần sầu.
+
+Chắc là được chọn ngẫu nhiên gì đó, tổng cộng có tám người đang điều khiển Nefilim tại khu vực Megafloat này, nơi mà mọi ánh mắt đều đổ dồn về. Trận đấu đồng đội... Không, không phải, lẽ nào là Battle Royale ư? Thật sao, Nefhoro đúng là một cuộc cách mạng công nghệ mà!!
+
+“Ơ, trùng màu à.”
+
+“Trùng màu ư?”
+
+“Hả? À, kia kìa, cái màu sơn đỏ ấy, có khoảng ba con đúng không? Tôi đang nói đến cái đó.”
+
+“À... Đúng là vậy thật.”
+
+Nếu đã từng chơi đối kháng trong Nefhoro kha khá mà lại không biết đến màu sắc đó thì đúng là kẻ ngoại đạo. Bộ lông vũ đỏ thẫm đó là màu vinh quang chỉ dành tặng cho một người duy nhất.
+
+À mà, theo lời Rust, bối cảnh cũng là tiếp nối thế giới của phiên bản đầu, và chính vì game vắng người nên có lẽ mới có màu sắc chỉ dành riêng cho Rust (lại là lời Rust).
+
+Còn trong bản 2 thì màu sắc đó có thể dành cho tất cả người chơi cũng không có gì lạ... (vẫn là lời Rust).
+
+Mỗi khi nhắc đến Nefhoro là cô ta lại hưng phấn tột độ và nói nhanh kinh khủng... nhưng tôi không ghét cái sự nhiệt tình đó đâu.
+
+Tuy nhiên, việc màu sắc độc quyền của cựu vương lại được sử dụng ngay từ bản chơi thử khiến tôi không khỏi cảm thấy có chút buồn bã... À mà, kẻ đã kéo hắn ta khỏi ngai vàng lại là cô bé Cua nhà tôi đấy chứ.
+
+“Vậy thì, xin mời quý vị cùng thưởng thức trận chiến sinh tử Nefilim hoành tráng! Chuẩn bị... BẮT ĐẦU!!”
+
+Đó là khoảnh khắc cô Sasahara vừa ra hiệu lệnh bắt đầu trận đấu.
+
+Ngay lập tức, một trong số các Nefilim được sơn màu đỏ thẫm đã sử dụng tối đa lực đẩy, lao thẳng vào trung tâm chiến trường.
+
+Nó đưa bảy Nefilim còn lại vào tầm bắn (khoảng cách gần nhất)... rồi khai hỏa khẩu súng bắn tỉa khổng lồ đã hợp nhất hoàn toàn với cánh tay trái. Viên đạn thật đã bắn trúng một Nefilim màu đỏ thẫm khác, kẻ không kịp phản ứng với hành động liều lĩnh, phi truyền thống là tấn công tầm gần bằng súng bắn tỉa. Trong khi con Nefilim bị nghiền nát đầu bởi một đòn duy nhất đang rơi xuống không còn chút sức lực nào, bốn Nefilim khác lập tức lao vào kẻ vừa giành được “First Blood”. Hai con còn lại thì có lẽ đang chờ cơ hội từ xa để “ngư ông đắc lợi”.
+
+“Ồ, cái cách di chuyển (maneuver) đó là gì vậy?”
+
+“Cổ võ thuật à?”
+
+Kẻ màu đỏ thẫm khiến các Nefilim đang lao tới va chạm vào nhau bằng một kiểu đỡ đòn giống như Aikido, sau đó một phát bắn tỉa từ xa bay tới. Nó dùng khẩu súng bắn tỉa ở tay trái để chặn đứng phát bắn đó, rồi chĩa nòng súng đã nửa nát về phía một Nefilim đỏ thẫm khác đang đứng yên vì va chạm... và khai hỏa.
+
+Cánh tay trái của nó nổ tung từ bên trong, luồng khí nổ vẫn còn giữ được định hướng đã khoét sâu vào thân thể của kẻ màu đỏ thẫm đáng thương. Kẻ đó đã không được bỏ qua sơ hở vừa lộ ra, nó bị các Nefilim khác xung quanh xiên thủng và hoàn toàn bị phá hủy... Còn lại bảy cỗ máy.
+
+“Ồ, hóa ra vẫn còn sống.”
+
+“Trong trạng thái không đầu...!”
+
+Trong Nefhoro, do Nefilim và người chơi hợp nhất, nên khi đầu bị phá hủy, tầm nhìn sẽ hoàn toàn tối đen. Ở phiên bản trước, người chơi buộc phải di chuyển chỉ bằng cách dựa vào radar... Liệu lần này phần đó đã được nới lỏng hơn không? Hay kẻ đầu tiên bị thổi bay đầu là một người chơi Nefhoro? Con Nefilim đỏ thẫm không đầu, vốn đã bay vào khu vực khán đài với động tác không chút do dự, nay lại lao vào kẻ thù đã thổi bay đầu mình như một cách đáp trả.
+
+“Không, có lẽ đó là...”
+
+Nước đi tồi tệ nhất.
+
+Con Nefilim đỏ thẫm chỉ còn một tay, đã nhẹ hơn nhờ việc mất đi cánh tay trái, di chuyển theo một cách không thể tin nổi đối với một tựa game robot như Nefilim Hollow (dù nó chỉ là một cơ thể hình nộm), và vòng ra phía sau con Nefilim không đầu.
+
+Trên cánh tay phải không hề hấn gì của nó là một chiếc cưa xích laze đang gầm gừ...!!
+
+Kẻ đỏ thẫm một tay chặt đứt cả bốn chi của con không đầu bằng một cú xoay người toàn bộ cơ thể, rồi đá văng con không đầu chỉ còn lại thân.
+
+Mục tiêu của nó là con Nefilim hạng nặng đang đứng xa và giương súng bắn tỉa. Thực ra thì con không đầu đó sẽ biến mất giữa chừng do bị phá hủy hoàn toàn, nhưng theo phản xạ, con hạng nặng đã bắn vào xác con không đầu.
+
+Kẻ đỏ thẫm một tay không bỏ lỡ sơ hở nhỏ bé đó. Nó tiếp cận một con Nefilim vừa thoát khỏi cuộc hỗn chiến, vặn tay con đó và gõ nhẹ ngón tay vào cánh tay... khẩu súng trường của nó. Khoan đã, lẽ nào,
+
+“Không thể tin được...”
+
+“Ơ, trúng rồ...?!”
+
+◇
+
+Vua Kỵ Sĩ Bút Chì: Cái đó thật à? Nó căn chỉnh mục tiêu của người khác chỉ bằng mắt thường sao?
+
+Sunraku: Tôi biết đó là ai chỉ bằng cách nhìn cách di chuyển của nó.
+
+◇
+
+───Đỉnh cao của sắc đỏ thẫm, là vinh quang chỉ được trao cho duy nhất hai người (một người).
+
+Rốt cuộc là ai đây... (mà đây là không có Mold hỗ trợ đấy nhé)
+
+Có vẻ như mọi người cũng khá quan tâm trong phần bình luận, về cái tên Katsuo đã khiến Potato-chan bốc phải phiếu trượt.
+
+Hắn ta đang livestream đó. Tiêu đề là...
+
+“Tôi sẽ trả lời tất cả mà không trốn tránh! Fishumi Kei: Hỏi nhanh đáp gọn nghiêm túc!!”
+
+Đôi mắt hắn chết lặng.

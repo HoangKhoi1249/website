@@ -1,0 +1,147 @@
+NGÀY 14 THÁNG 12: ĐÁNH HỒI CHUÔNG CẢNH TỈNH TRƯỚC SỰ KẾT THÚC TRẮNG
+
+Thương Viêm Kiếm Aradval. Đây là những khả năng mà Aradval, giờ đã tái sinh, đang sở hữu:
+
+*   Bật Lửa Kiếm (Ignition)
+    Tiêu hao MP của người dùng, tích trữ "Viêm Hỏa" vào Aradval tương ứng với lượng MP đã tiêu hao.
+*   Bùng Nổ Lửa (Nitro)
+    Khi gây sát thương không chí mạng, lượng "Viêm Hỏa" tương ứng với đòn tấn công sẽ được cộng thêm vào Aradval.
+    Khi gây sát thương chí mạng, Aradval sẽ được ban thuộc tính "Bùng Nổ" tương ứng với lượng "Viêm Hỏa" đã tích trữ.
+    Khi đạt trạng thái tích trữ tối đa, trạng thái "Bùng Nổ Lửa" sẽ duy trì trong một khoảng thời gian cố định, bất kể có chí mạng hay không.
+*   Rèn Lửa (Torque)
+    Khi "Bùng Nổ Lửa" được kích hoạt, hiệu ứng cường hóa sẽ được áp dụng lên lưỡi kiếm Aradval trong suốt thời gian chiến đấu, dựa trên kỷ lục cao nhất về lượng "Viêm Hỏa" đã tích lũy từ hiệu ứng trên.
+*   Thương Diệt Rồng
+    Tăng sát thương gây ra cho quái vật thuộc một số chủng loại nhất định. Ngoài ra, Aradval còn có thêm hiệu ứng phụ, áp dụng trạng thái "Thiêu Hủy (Shouki)" lên mục tiêu đáp ứng điều kiện trên.
+*   "Khẳng Định Thương Sáng Thứ Tư (Brionac): Thiêu Hủy (Cear)"
+    Có thể sử dụng khi trang bị Aradval. Khi dùng Aradval để đâm hoặc ném, sẽ bắn ra một ngọn giáo lửa.
+*   ──[Phong tỏa]──
+    Chiếc chén rót máu rồng, chiếc chén nhuốm máu anh hùng. Chỉ có sự thật mới lấp đầy chân lý.
+
+Nói sao nhỉ, nó khó hiểu theo một hướng khác so với chiếc mặt nạ nhận được từ trận chiến Orchestra… Tôi đã nghĩ từ trước rồi, liệu có nhiều người phụ trách phần mô tả này không? Hơn nữa, họ còn không xem văn phong của nhau cho đến khi triển khai.
+Thôi kệ. Dù sao thì cũng không phải là không đọc được hay không hiểu được. Điều quan trọng là so với Aradval Rebuild trước khi cường hóa, nhìn chung các khả năng trở nên phức tạp hơn… hay nói đúng hơn là rườm rà hơn.
+
+Trước hết, điều kiện tiên quyết là lưỡi kiếm nóng bỏng vốn luôn hoạt động giờ đây đã trở thành dạng bật/tắt. Dùng “Bật Lửa Kiếm” để bơm MP làm “mồi lửa”, rồi khi không chí mạng thì “Viêm Hỏa” tích tụ… Nghe đã thấy phiền phức rồi, nhưng nếu không dùng “Bật Lửa Kiếm” thì dù có chạm tay trần, áp vào má hay dùng nó đập mông cũng sẽ không gây sát thương nhiệt. Hơn nữa, độ sắc bén cũng giảm đi đáng kể, có lẽ đây là trạng thái khi nó nằm trong vỏ kiếm.
+Còn nữa… Hình như bản chất của lửa đã thay đổi kể từ khi tái tạo lại. Aradval trước đây thực sự có nhiệt độ cao và hiệu ứng đốt cháy, nhưng hiệu ứng "Thiêu Hủy" của Thương Viêm Kiếm Aradval lại hoàn toàn khác. Nó giống như một hiện tượng khác hẳn với việc đốt cháy, nói tóm lại, Aradval hiện tại dù có cắm vào một đống lá khô cũng sẽ không bốc cháy.
+
+“Ừm…”
+
+Trong khi tôi đang nghiêng đầu kiểm tra những thay đổi nhỏ khác, vấn đề "Rồng Lưỡi Kiếm" tạm thời được giải quyết, và chủ đề tiếp theo đã được chuyển sang.
+Người nói không phải Nyai XIII mà là… Vash.
+
+“───Hãy lắng nghe, hỡi tất cả sinh linh.”
+
+À, đây là lúc nghiêm túc rồi. Này Deep Slaughter, nghe nghiêm túc vào, không thì ta lại thì thầm vào tai mi đấy. Goliath Hanammugli… (thì thầm rợn người)
+
+“Tai họa trắng… đang tới gần. Giờ thì nó chẳng còn phân biệt người hay thú nữa… mọi sinh linh đều phải chiến đấu.”
+
+Đó là một lời cảnh báo. Một lời cảnh báo từ Vua Thỏ Khổng Lồ cổ xưa và mạnh nhất, gửi đến tất cả sinh linh đang sống, về một mối tai họa mà toàn bộ diện mạo của nó vẫn chưa được hé lộ.
+
+“Tên của nó là… Bạch Thần Vĩ Đại Đang Ngủ Mơ (Madōromu Hakutai-shin). Dấu Chấm Hết đã hủy diệt những lữ khách từ các vì sao trên bầu trời đêm… hay còn gọi là, Ngai Thần.”
+
+À, hiểu rồi. Theo lời kể hiện tại thì tôi chỉ có thể tưởng tượng ra cảnh một chiếc ghế có chân tay đang hủy diệt thế giới, nhưng thôi, tạm thời cứ coi Bạch Thần đó là một con quái vật hình ghế và tiếp tục lắng nghe.
+
+“Vị vua đang ngủ say… nhưng linh hồn của vua sẽ điều khiển ngai vàng…”
+
+Ghế quái vật được trang bị linh hồn của vua. Giống như undead chăng?
+
+“Con quái vật vĩ đại với xương sống Thời Thần Thánh (Kamiyo)… bước chân của nó sẽ nghiền nát cả vùng đất của Thần Đen… và vùng đất của Thần Trắng, như nhau cả…”
+
+Tôi bỗng hình dung ra cảnh một chiếc ghế zombie khổng lồ dài 500 mét phun tia laze từ lưng, thiêu rụi cả lục địa… Thôi, bỏ ngay cái hình ảnh lố bịch đó đi.
+Nhưng mà, dù có bỏ đi những yếu tố thừa thãi, kết luận vẫn là “Quái Vật Khổng Lồ (Raid Monster) đang tấn công”… Không phải là quá nguy hiểm sao?
+
+“Mấy người… Bão sắp đến rồi đấy. Ngai Trắng và Linh Hồn của Vua sẽ xé toạc sóng dữ… để nghiền nát vùng đất của Thần Đen này. Đến lúc đó, cả các quyến thuộc của Thần Đen cũng không thể khoanh tay đứng nhìn đâu.”
+
+À, hiểu rồi? Ý là Bạch Thần sẽ xâm lược lục địa mới, khiến các Raid Monster ở đó trở nên hung hãn hơn.
+Nguy hiểm thật sự chứ, một thực thể ngang tầm với Tứ Đại Độc Vương Tham Lam lại nổi loạn ư? Hầu hết các Quyến Thuộc Nguyên Thủy ở Lục Địa Mới vẫn chưa có thông tin xác thực nào, và đây là một sự kiện hỗn loạn khi các Raid Monster đồng loạt nổi điên, không thể nào có nhiều cơ hội để thử sức đâu.
+
+“Thế này thì đúng là cần chuyển thông tin cho [Thư Viện] càng sớm càng tốt rồi…”
+
+Những tiếng xì xào trong vòng tròn tự nhiên im bặt khi Vash đảo mắt. Và ánh mắt đó, dù chỉ trong chốc lát, nhưng chắc chắn đã nhìn chằm chằm vào những người chơi như chúng tôi… rồi lời nói được tiếp tục.
+
+“Mấy người… hãy cẩn thận đó. Chuẩn bị tinh thần đánh đổi cả Mạng Sống (Tama)… Chuẩn bị tinh thần bảo vệ Mạng Sống (Tama) của mình…”
+
+Những lời tiếp theo, phải chăng là gợi ý dành cho những con người kém cỏi như chúng ta?
+
+───Vùng đất của Bức Tường Trắng không ngừng mở rộng
+
+───Cuộc đấu của Sợi Chỉ Đen diễn ra giữa cát bụi
+
+───Quân Đoàn Xanh không cần lo lắng
+
+───Quyến Thuộc Đỏ lại thức giấc trong cơn đói
+
+───Cung Điện Xanh hãy truy đuổi mà không cần chiến đấu
+
+“Ta sẽ lặp lại bao nhiêu lần cũng được? Hãy chuẩn bị cho Bạch Thần, cho tai ương ngai vàng sắp tới… Đó là lời cảnh báo từ bọn ta.”
+
+……
+
+…………
+
+………………
+
+Cuộc họp thượng đỉnh đa chủng tộc ngày thứ hai đã kết thúc.
+
+“Nào, giờ thì.”
+
+“Ê Sanraku, chỗ này có bán thuốc hồi phục không mày?”
+
+“Tao chịu.”
+
+“Gay go rồi, tay tao còn ít đồ quá.”
+
+“Tại mày cứ hùng hổ ở Shigmonia làm gì…”
+
+“Này Sanraku, cậu nghĩ ở đây có bán đạn không?”
+
+“Này Yashirobird, cậu nghĩ ở đây có bán đạn không?”
+
+“Mày lại dùng câu y hệt mà nghi ngờ não tao à!”
+
+“Thức trắng đêm à?”
+
+“Tao định xử lý gọn trong một mạch (One-Tetsu) thôi.”
+
+“Tuyệt vời đó, đỉnh cao luôn. Tận dụng triệt để khoảng thời gian dư dả chính là một sự xa xỉ tột bậc.”
+
+“…À, cái đó thì tôi cũng hiểu.”
+
+Nào, vậy thì.
+Chúng tôi kiểm tra vũ khí, giáp trụ, phụ kiện, và cả vật phẩm, rồi tiến về phía một con quái vật.
+
+“Chào Nữ Vương.”
+
+“Các ngươi…”
+
+“Chẳng phải nên dẹp bỏ lo lắng càng sớm càng tốt sao?”
+
+Tôi vừa xoay thanh Aradval trên vai bằng cổ tay, vừa nói với Nữ hoàng Minotaur.
+
+“Hãy giải quyết nó trước sáng mai đi, đêm săn rồng sắp đến rồi.”
+
+Tên của tổ đội chúng tôi, sau khi có thêm thành viên Ul Idim, vừa được quyết định.
+
+“Việc diệt rồng cứ để [Hội Săn Rồng] lo liệu!”
+
+Chậc chậc
+
+“Gì thế Deep Slaughter?”
+
+“Sanraku-kun, Minotaur có nhiều ngực nhỉ… ướt át quá đi…”
+
+………… Tôi ghé miệng vào tai hắn và nói một lời.
+
+“……Im mồm (thì thầm).”
+
+“Ối giời ơi!!!”
+
+Câm mồm đi.
+
+“Tôi cảm thấy như bị liếm từ xương cụt lên cột sống cho đến não vậy. Đặc biệt là những âm “ch” và “p” rất kinh khủng. Ôi, thật may là tôi đã ghi âm lại được!”
+───Deep Slaughter sau này kể lại cảm nghĩ về khoảnh khắc đó.
+
+“…………”
+───Sanraku im lặng, giương Aradval lên chuẩn bị đánh một cú.
+
+“Đợi đã Sanraku-kun! Cái này có lưu cả nội dung cuộc họp đó nhé? Không thể xóa được đâu phải không? Hừ hừ hừ hừ… À, hay là làm một phát trước nhỉ? Lại đây! Á hự!!!”
+───Deep Slaughter sung sướng bị đánh vào mông (Aradval) bay lên trời.

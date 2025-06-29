@@ -1,0 +1,121 @@
+NGÀY 19 THÁNG 12: HỒNG NHAM CÀNG GIAN KHÓ CÀNG CƯỜI RỘ
+
+Hạn chót...
+Ôi, hạn chót...
+Hạn chót!
+
+Katana
+
+◇
+
+Nếu bên phải cạn thì chuyển sang trái, bên trái cạn thì xoay sang phải. Một khi sơ hở lộ ra, sẽ bị đánh úp cả hai.
+Hỏa lực đủ sức nghiền nát chiến cơ liên tục bắn phá với độ chính xác đáng sợ. Rust không mất nhiều thời gian để chuyển sang thế phòng thủ.
+
+“Dù tiếc thật, nhưng với Tán Ngạc Phi Toái (Sengaku Hisai) thì không có cửa thắng…”
+
+Dù gì đi nữa, tương khắc quá mức, đến mức Rust cũng đành bó tay chịu trói.
+
+“Giờ thì sao nào~? Tiếc là, tôi sẽ không để cô thay đổi chiến cơ đâu nhé~?”
+
+Rust đã được biết là chiến đấu bằng cách thay đổi nhiều chiến cơ. Vì vậy, để duy trì lợi thế hiện tại, Eclair không tạo ra bất kỳ sơ hở nào; thậm chí, cô ta còn cố tình đặt mình vào một vị trí "có vẻ như có thể tấn công được" một cách tinh tế để dụ Rust lơ là.
+
+“……Tôi sẽ không mắc bẫy đâu.”
+
+“Ồ.”
+
+Giữ thế phòng thủ để bảo vệ mình khỏi đạn bay tới như mưa bão, Rust vắt óc suy nghĩ tìm cách thoát hiểm.
+
+“Mười giây. Ít nhất phải có mười giây để tạo ra một kẽ hở. Nếu nhận đạn khi đã tháo bỏ chiến cơ, có lẽ tôi sẽ chết ngay lập tức.”
+
+Nếu có chỉ số phòng thủ vượt trội thì có thể chống chịu được, nhưng vì Rust lấy chiến cơ làm vũ khí chính, một khi bị tước bỏ thì chỉ còn lại thân thể trần trụi. Giáp cường hóa của người chơi không thể chống được đạn.
+
+“Vô dụng quá.”
+
+Việc bị dồn vào thế yếu như vậy hoàn toàn là do Rust đã quá tự mãn. Cô ấy đáng lẽ đã phải biết trước rằng, vì địch cơ sở hữu cùng khái niệm với Tán Ngạc Phi Toái (Sengaku Hisai), tương khắc là điều khó tránh.
+Rust vẫn giữ thế phòng thủ để chịu đựng đợt tấn công dữ dội của Eclair, đồng thời đảo mắt nhìn xung quanh. Để tạo ra mười giây sơ hở, khó mà không tận dụng các vật thể xung quanh.
+
+“Vô dụng quá…”
+
+Một trận chiến sạch sẽ, không một hạt bụi bay lên là điều không thể. Ngay từ đầu, khi vô số ngôi nhà đã bị đạn của Eclair găm vào, thì khái niệm một trận chiến giữ nguyên vẹn thành phố đã tan vỡ. Vì vậy, việc Rust nảy ra ý định dùng các ngôi nhà làm lá chắn để thay đổi chiến cơ là điều tự nhiên.
+
+“Loại súng ổ quay đó, có đủ sức mạnh để gây sát thương hiệu quả nhất định lên lớp giáp hạng nặng của Type-Men. Nếu chỉ trú tạm vào nhà thì cũng bị bắn xuyên tường.”
+
+Vốn dĩ, Tán Ngạc Phi Toái (Sengaku Hisai) là một chiến cơ chuyên về tấn công dồn dập, không được tùy chỉnh để phòng thủ lâu dài. Bộ phận vai vốn được bảo vệ ở những điểm yếu, giờ đã bị đạn bắn nát.
+Type-Men biến hình bằng cách khoác chiến cơ như một lớp áo giáp, nên hư hỏng bên ngoài đôi khi gây trở ngại cho việc tiếp tục chiến đấu hơn cả việc sát thương xuyên thấu đến người chơi.
+Nhận thức được rằng Tán Ngạc Phi Toái (Sengaku Hisai) đã bị dồn từ chỗ "không thể thắng" sang "không thể cầm cự", Rust vắt kiệt óc tìm kiếm lối thoát.
+
+“Đối thủ cũng hiểu rằng mình muốn bỏ chạy. Giả bộ tấn công ư? Không, nếu bị tạo khoảng cách dù chỉ bằng một nắm đấm thì đòn giả cũng vô nghĩa. Liệu có nên phá tường để chạy vào nhà bất chấp bị thương không?”
+
+Rust thực ra đã biết cách thoát khỏi tình huống này với rủi ro tối thiểu.
+
+───Khẩn Cấp Phế Trang (Emergency Purge).
+
+Đây là phương pháp cuối cùng của người điều khiển chiến cơ, cho phép người mặc thoát khỏi nguy hiểm bằng cách vứt bỏ chiến cơ khi khẩn cấp, vì tất cả chúng đều là loại có người lái.
+Rust tự nhận thấy bản thân có niềm đam mê mãnh liệt hơn người bình thường với sự lãng mạn của robot. Vì vậy, cô ấy cũng hiểu rằng những hành động "hủy diệt, trái ngược hoàn toàn với việc bảo toàn" như tự hủy hay hoạt động 120% công suất đều có một vẻ đẹp riêng.
+Cách đơn giản nhất để thoát khỏi tình huống này. Đó là vứt bỏ Tán Ngạc Phi Toái (Sengaku Hisai), tạo khoảng cách rồi chọn một chiến cơ khác… một chiến cơ có lợi thế hơn khi đối đầu với Eclair.
+
+“Vô dụng quá…!”
+
+Thắng thua trong trận chiến này không chỉ dừng lại ở "kết quả" của riêng Rust. Chính vì thế, Rust phải hành động đặt chiến thắng lên hàng đầu.
+Cảm giác hối tiếc, sự vô dụng, nhưng vẫn là sự điềm tĩnh liên tục suy tính về chiến thắng đã thúc đẩy cô kích hoạt Khẩn Cấp Phế Trang (Emergency Purge) vào khoảnh khắc ấy…
+
+“───…”
+
+Bỗng nhiên, Rust thoáng thấy một vệt sáng đỏ ở khóe mắt.
+Tác động vừa rồi cho biết đó là gì: một mảnh giáp của Tán Ngạc Phi Toái (Sengaku Hisai) bị vỡ tan và văng ra do đạn của Eclair bắn trúng.
+Chẳng có gì đặc biệt cả, chỉ là một phần nắm đấm của Tán Ngạc Phi Toái (Sengaku Hisai), vốn đã gần đến giới hạn, bị nứt toác và bị thổi bay một mảnh. Đó là miêu tả tổn thương mà thực tế đáng sợ của Shangri-La Frontier đã khắc họa.
+Thế nhưng, trong mắt Rust, người đang không ngừng suy nghĩ trong tình thế phòng thủ mong manh này, cảnh tượng đó lại diễn ra thật chậm rãi một cách kỳ lạ. Chẳng có gì, chỉ là một mảnh kim loại bình thường. Vậy mà… nó lại trông như một chiếc lông vũ màu đỏ tươi.
+
+“───Chợt!!!”
+
+Chỉ một ảo ảnh thị giác đơn thuần đó đã đốt cháy niềm kiêu hãnh của Rust đến mức đỏ rực.
+Ngay lập tức, sự do dự biến mất khỏi hành động của Rust. Nắm đấm của cô, nhắm mục tiêu chỉ bằng ước tính, lao thẳng về phía Điện Kích Bánh Ngọt Số 3＠GGMC.
+Thứ mà trước đó cô không dùng vì tương khắc với Điện Kích Bánh Ngọt Số 3＠GGMC, vì thế mà không thể thắng… giờ đây, Thiết Quyền Phóng Xạ Có Động Cơ Đẩy (Rocket Punch), được sử dụng vì mục đích chiến thắng.
+
+“Bay tới ư!?”
+
+Mặc dù khó mà nói là nhanh như đạn, nhưng nắm đấm sắt phóng ra với tốc độ cao vẫn bay thẳng về phía Eclair. Tuy nhiên, nếu một đòn tấn công như thế này có thể xoay chuyển cục diện, thì Rust đã sử dụng nó sớm hơn nhiều.
+
+“Không trúng đâu mà~”
+
+RẦM! Quỹ đạo bay của nắm đấm đột nhiên lệch đi một cách bất thường. Đó là âm thanh của viên đạn bắn ra để chặn đứng đã xuyên thủng nắm đấm, và sau nhiều lần phòng thủ trước những viên đạn liên tiếp, nó cuối cùng đã vỡ vụn.
+
+Thế nhưng,
+
+“……Vì đã chế tạo được nhiều thứ, tôi đã quên mất ý định ban đầu.”
+
+RÉTTTTT! Âm thanh kim loại cào mặt đất kéo lê đập vào tai Eclair ngay sau khi cô ta bắn. Nhanh hơn cả việc cô ta kịp nghĩ "cái gì vậy?"... và nhanh hơn cả việc cô ta kịp nhìn xem "cái gì vậy?", nó đã quấn chặt lấy chân của Điện Kích Bánh Ngọt Số 3＠GGMC, khóa chặt lại một tiếng “CẠCH”, như thể nó sẽ không bao giờ rời ra cho đến khi trận chiến này kết thúc… hoặc cho đến khi một trong hai rời khỏi nơi đây bằng cái chết.
+
+“……Nếu kết cục là thua, thì cứ coi như vậy. Nếu kết cục là thắng, thì càng tốt hơn nữa.”
+
+“Này này……… Trận Đấu Sinh Tử Bằng Xích (Chain Deathmatch) sao?!”
+
+Một đầu dây xích đã bám chặt vào Điện Kích Bánh Ngọt Số 3＠GGMC, đầu còn lại kéo dài thẳng tắp và quấn quanh cánh tay trái đã mất nắm đấm của Tán Ngạc Phi Toái (Sengaku Hisai).
+Đó là Chiến Cơ Trang Bị [Khóa Xích (Lock Chain)], được thiết kế để bắt giữ các quái vật cỡ lớn, hoặc để cản trở hành động của mục tiêu bị bắt bằng xích thông qua một cuộc đấu sức thuần túy. Mặc dù có nguồn gốc từ một loại vũ khí vượt chuẩn nào đó, nhưng giờ đây nó lại được sử dụng cho một mục đích cực kỳ đơn giản.
+
+“……Nhưng. Để thua trong quá trình này, với màu đỏ thắm này… ta thề không thể tha thứ.”
+
+Nếu đã dùng, nếu đã gửi gắm thân mình vào. Dù có nát bươm đến đâu, hãy chết sau khi chiến thắng. Huống chi, dù là vì chiến thắng, việc vứt bỏ nó giữa trận chiến… ngoài những cảnh sự kiện ra, tự mình lựa chọn điều đó là không thể chấp nhận được. Hơn nữa, một tác phẩm tâm huyết được tùy chỉnh hoàn toàn theo yêu cầu, làm sao có thể thua một sản phẩm đại trà chỉ được tùy chỉnh đôi chút chỉ vì bất lợi về tương khắc cơ chứ. Nói tóm lại, Rust đã nổi điên.
+Khóe miệng của Rust, vốn luôn căng thẳng, giờ đây nhếch lên. Nếu đã vứt bỏ chiến thắng khôn ngoan để hướng tới một chiến thắng điên rồ, nếu đã gạt bỏ mọi do dự, thì chỉ còn cách chạy cho đến khi cháy hết mình.
+
+“Có lẽ mình đã chọc giận ai đó rồi chăng~…”
+
+Không chạy trốn. Nhưng cũng không để đối thủ chạy thoát.
+Mất đi nắm đấm trái, và toàn thân nứt toác, Tán Ngạc Phi Toái (Sengaku Hisai) và Điện Kích Bánh Ngọt Số 3＠GGMC đối mặt nhau, bị xích trói buộc.
+
+“……Tôi sẽ xé nát ngươi thành từng mảnh.”
+
+Chỉ trong lúc nguy nan mới cười rộ. Bởi chính vì vậy, Sắc Đỏ Thắm mạnh nhất Nefhoro mới luôn là người chiến thắng.
+
+・[Khóa Xích (Lock Chain)]
+Vũ khí đặc biệt: Loại dây thép [Keep Out] là một kiệt tác nâng cao tính cơ động và khả năng tiếp chiến bằng cách tạo ra các cấu trúc bán vật lý ma thuật dạng dải tùy theo nhu cầu, nhưng do hiệu suất cao, nó yêu cầu một lò phản ứng Aether đặc biệt.
+Do đó, [Khóa Xích (Lock Chain)], có thể coi là phiên bản sản xuất hàng loạt kế thừa tư tưởng thiết kế của [Keep Out], đã loại bỏ tính năng "tạo dải mới mỗi khi kích hoạt" – yếu tố làm tăng chi phí của [Keep Out]. Nó trở thành một vũ khí dạng xích hoàn toàn bằng vật chất.
+Mặc dù đương nhiên độ bền kém hơn so với [Keep Out], nhưng khả năng vận hành bằng các chiến cơ sản xuất hàng loạt đã cho phép việc sử dụng nhiều đơn vị cùng lúc để bắt giữ các kẻ thù lớn.
+Tuy nhiên, độ bền của [Khóa Xích (Lock Chain)], có thể nói là hậu duệ trực tiếp của [Keep Out], không phải là tầm thường, và rất khó để phá hủy nó bằng hỏa lực thông thường mà một chiến cơ có thể mang theo.
+
+Một loại vũ khí bắt giữ cực kỳ khó chịu, bay về phía mục tiêu với tốc độ khá nhanh, có chút bám đuổi, và tự khóa lại sau khi quấn chặt. Vì đây là vũ khí gắn ngoài, Rust đã gắn và phóng nó ngay khi tung nắm đấm.
+Đây là một nước đi xoay chuyển tình thế, đặt cược vào phân tích rằng “nếu là Eclair, cô ta sẽ không né tránh cú Rocket Punch bay thẳng tới mà sẽ bắn hạ nó”.
+
+Vậy là, tập 9 của phiên bản truyện tranh "Shangri-La Frontier" đã được phát hành.
+Bìa sách là Animalia, "thì ra ngươi có màu sắc thế này!". Đúng vậy, thì ra ngươi có màu sắc thế này... Đây là hình dáng trước khi nắm đấm tìm thấy sự thấu hiểu lẫn nhau. Tôi đã từng nghĩ sẽ biến Cánh Tay Địa Ngục Xé Nát (Hands of Tartarus) thành nắm đấm, nhưng rồi nhận ra nó không thể là nắm đấm được vì nó vốn dùng để kiềm chế, không phải tấn công, do vẫn bị kháng cự vì thiếu sức mạnh... À thôi, lạc đề rồi, bỏ qua nhé.
+Nhân tiện, đã có thông báo lớn về việc chuyển thể anime và game, nhưng tất cả là nhờ phiên bản truyện tranh được vẽ bởi họa lực ma thuật cực đỉnh của Đại Ma Đạo Sư Fuji-sensei. Mọi người nhất định hãy tìm đọc nhé.

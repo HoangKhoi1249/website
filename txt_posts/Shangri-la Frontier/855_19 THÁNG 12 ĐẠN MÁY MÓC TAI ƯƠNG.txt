@@ -1,0 +1,101 @@
+**19 THÁNG 12: ĐẠN MÁY MÓC TAI ƯƠNG**
+
+RS:◇ Bộ tăng áp của Sengaku Hisai gầm lên, tạo ra lực đẩy.
+Lớp giáp công kích bao phủ toàn thân không chỉ đơn thuần chống đỡ các đòn tấn công của kẻ địch bằng phòng thủ tuyệt đối, mà còn được thiết kế để chịu một mức độ hư hại nhất định, đồng thời chuyển hướng lực tấn công ở ngưỡng giới hạn để không cản trở chuyển động của bản thân. Đó là một lớp bảo vệ thiên về tấn công.
+Rust lao nhanh về phía trước, dùng lớp giáp trên trán đang cúi thấp để hứng chịu những viên đạn nhắm thẳng vào mặt, rồi lập tức rút ngắn khoảng cách. Cảm giác não bị rung lắc khiến cậu lo ngại trạng thái choáng váng, nhưng đối với cỗ máy chiến thuật này, việc chùn bước đồng nghĩa với việc phủ nhận triết lý thiết kế của nó.
+
+"…Ưm!"
+
+"Suýt nữa thì toi!"
+
+Rút ngắn khoảng cách từ tầm trung xuống tầm gần trong tích tắc, và với tốc độ đó, Rust tung một cú đấm toàn lực. Chỉ cần cỗ máy không chịu hư hại chí mạng, chỉ cần người điều khiển không bị mất khả năng chiến đấu là được. Tấn công dồn dập và kết liễu đối thủ. Tuy không có ý định tiết lộ cho người trong cuộc biết, nhưng cú đấm uy lực của Sengaku Hisai, được tham khảo từ trang bị và phong cách chiến đấu của một người chơi nọ… lại không trúng đích.
+Thật trớ trêu, nhờ tốc độ cơ động của cỗ máy chiến thuật đối thủ – cũng có chung ý tưởng với Sengaku Hisai, đó là "di chuyển tốc độ cao trong cự ly ngắn" – mà cú đấm đó đã được né tránh trong gang tấc.
+
+"Uầy, sợ thật!"
+
+(Miệng lưỡi nào nói ra vậy chứ?)
+
+Rust thầm rủa trong lòng, cố gắng giữ vẻ ngoài không quá thô lỗ, trong khi né tránh những viên đạn xả ra như vũ bão bằng cách bước lách trái phải.
+Đạn không chỉ nhắm vào đầu, mà còn nhắm vào các khớp như khuỷu tay và đầu gối; đôi khi, đối phương lại bắn hai phát vào phần giáp dày nhất, sau đó bất ngờ đổi nhịp và bắn một viên khác nhắm vào điểm yếu chí mạng.
+
+Cảnh tượng chàng cao bồi thép lùn tịt, mũm mĩm đang né tránh với tốc độ kinh hoàng có vẻ hơi buồn cười, nhưng những viên đạn xả ra từ hai khẩu súng trên tay hắn lại nhắm thẳng vào chiến thắng một cách tinh quái đáng ghét.
+
+(Khó chịu quá. Gấp đôi dự tính… không, hơn thế nữa.)
+
+Rust tự tin rằng mình là người chơi am hiểu nhất về máy móc chiến thuật ở thời điểm hiện tại. Do đó, cậu hiểu rằng cỗ máy chiến thuật của đối thủ không có gì quá đặc biệt.
+Mặc dù hiệu suất không tệ đến mức cực đoan, nhưng nó không phải là sản phẩm thiết kế của chính người chơi mà là sự kết hợp các bộ phận có sẵn được tùy chỉnh.
+Bộ tăng áp ở các bộ phận của nó thuộc loại có thể tạo ra công suất lớn trong thời gian ngắn, nhìn hình dạng là có thể nhận ra. Điều đó có nghĩa là nó chuyên về né tránh tức thời và không giỏi kéo dài khoảng cách. Việc nó đến muộn so với các thành viên khác của đội lính đánh thuê GUN! GUN! sau khi trang bị máy chiến thuật có lẽ là do sự kém bền bỉ này.
+Về vũ khí, đó là một khẩu súng lục ổ quay dùng cho máy chiến thuật dùng đạn thật, một khẩu súng lục ổ quay cần nạp đạn vật lý, đi ngược lại bối cảnh khoa học viễn tưởng. Sức công phá đối với máy chiến thuật là không thể chê vào đâu được, nhưng mỗi viên phải bóp cò mới bắn ra được.
+
+Tổng hợp tất cả thông tin đó, cỗ máy của đối thủ nổi trội trong các trận chiến cự ly gần đến trung bình, duy trì khoảng cách trung bình để tránh các cuộc tấn công cận chiến và tung ra bạo lực tầm xa – đúng theo phong cách cao bồi như vẻ ngoài của nó.
+Khả năng tương thích với Sengaku Hisai không tốt. Không, nếu nhìn từ phía đối thủ, đây sẽ là một đối thủ có lợi thế tương thích. Cú đấm đỏ thẫm này không được trang bị vũ khí tầm trung trở lên, điều đó có nghĩa là ngay khi khoảng cách được mở ra, phương tiện tấn công tối thượng của nó đã bị vô hiệu hóa.
+
+Nhưng dù vậy, Rust vẫn nghĩ: "Chắc là sẽ thắng thôi."
+
+Việc phát huy hết khả năng tối ưu là điều hiếm hoi; nếu có khái niệm "may mắn vượt trội" thì tất nhiên cũng có khái niệm "sa sút phong độ". Và Rust đã đánh bại tất cả những đối thủ đã cầu nguyện hoặc cố ý tận dụng sự sa sút phong độ của cậu. Cậu không phải là loại người sẽ dừng lại chỉ vì bất lợi về tương thích.
+
+Tuy nhiên, khi thực sự đối mặt, Rust chỉ có thể nói về kẻ thù trước mắt mình là "cực kỳ khó chịu". Đến mức cậu muốn thay ngay Sengaku Hisai bằng một cỗ máy chiến thuật khác.
+
+(Mục tiêu cực kỳ chính xác, hỏa lực không ngừng, và quan trọng nhất, khả năng định vị vị trí quá xuất sắc đến mức khó chịu.)
+
+Luôn di chuyển, không bao giờ quá xa Rust. Kỹ năng di chuyển duy trì khoảng cách bằng cách tự mình di chuyển ngay cả khi bị bất ngờ tấn công… và dù đang di chuyển hay đứng yên, dù nắm đấm đang chực lao đến trước mặt, ngón tay bóp cò vẫn không chút nao núng, không run rẩy, mà lại chuyển động nhẹ nhàng một cách đáng kinh ngạc.
+Không có gì lạ khi ấn tượng từ video và ấn tượng khi đối mặt trực tiếp có sự khác biệt, nhưng khi đối mặt với đối thủ này… người chơi tên Eclair, Rust cảm thấy sự khác biệt đó rất rõ rệt. Ngay cả những hành động tưởng chừng như vô tình, thậm chí kém hiệu quả, cũng có thể trở thành đòn chí mạng đối với cậu…
+Và điều đáng ngại nhất chính là cỗ máy chiến thuật của đối thủ, đặc biệt là cánh tay máy phụ mỏng manh trông như chân côn trùng đang hoạt động ở vùng cổ tay.
+
+(Đó là tay máy phụ tự động nạp đạn. Một bộ phận tự động nạp đạn (reload) cho súng cầm tay…)
+
+Và đó còn là một bộ phận cực kỳ kém hiệu quả, khi mà cánh tay máy phụ giống chân côn trùng đó lại hì hục nạp từng viên đạn một cách vật lý. Hơn nữa, nó còn đắt một cách vô lý.
+Về cơ bản, ngay cả Rust, người luôn cố gắng tìm ra cách sử dụng và đánh giá bất kỳ bộ phận robot nào, cũng chỉ có thể đưa ra nhận xét "chuyển động nạp đạn của cánh tay máy phụ này thật đáng yêu và dễ thương"… Nói một cách nhẹ nhàng, đó là một bộ phận chỉ để làm cảnh.
+Bởi vì, thay vì phải đợi thời gian tay máy phụ nạp từng viên đạn, thì việc lấy ra một khẩu súng khác cùng loại và đã được nạp đầy đạn còn nhanh hơn. Giả sử có một khẩu súng lục ổ quay có thể nạp sáu viên đạn, nếu so sánh thời gian cánh tay máy phụ này nạp đạn với thời gian lấy một khẩu súng khác từ kho đồ, thì trong hầu hết các trường hợp, người ta sẽ đánh giá phương án sau ưu việt hơn. Hơn nữa, vì đó là một bộ phận của máy chiến thuật… tức là một vật chất tồn tại vật lý, nên nếu bị phá hủy, chức năng của nó đương nhiên sẽ mất đi.
+
+Mỏng manh, chậm chạp, và là một đống lãng phí. Nhưng… chỉ có một. Đúng vậy, chỉ có một lợi thế mà ngay cả Rust cũng không nhận ra.
+
+"Nạp đạn!"
+
+Vừa đường hoàng tuyên bố hết đạn, Eclair vừa nạp lại khẩu súng ở tay trái. Đương nhiên, Rust không bỏ lỡ khoảnh khắc đó, lập tức rút ngắn khoảng cách và tung cú đấm thép, vũ khí tối thượng của Sengaku Hisai.
+Nhưng, lại bị né. Thực tế là cậu đã điều khiển một con robot (chính xác hơn là bộ giáp năng lượng) và tung cú đấm hụt đã làm tổn hại không nhỏ đến lòng tự trọng của Rust. Lần này, sự tương thích thật sự quá tệ.
+
+Tuy nhiên, ngay cả Eclair cũng phải tập trung cao độ vào đòn tấn công chớp nhoáng của Rust, nên ít nhất khi Rust đang tấn công, các đòn của Eclair không thể vượt quá mức độ quấy phá.
+Không phải ai cũng có thể vừa nhảy nhót vừa thao tác kho đồ như một ai đó… nhưng.
+
+"Lượt của bên đó xong rồi à? Vậy thì đến lượt bên này đây!"
+
+"Cạch!" Tiếng súng đã nạp đầy đạn chĩa thẳng vào Rust.
+Eclair không nạp đạn, không nhìn, thậm chí không cần tập trung ý thức vào việc đó. Bởi vì việc nạp đạn đã được hoàn toàn giao cho cánh tay máy phụ (sub-arm) trông có vẻ yếu ớt kia.
+
+(Sự "tập trung" không hề bị xao nhãng…!)
+
+Rust kết luận rằng việc lấy một khẩu súng khác từ kho đồ sẽ nhanh hơn và tốt hơn vì nó giúp giảm thiểu thời gian lãng phí trong tình hình chiến đấu. Do đó, cậu cho rằng cánh tay máy phụ chậm chạp và kém hiệu quả kia sẽ không được ưu tiên.
+Nhưng đó là do Rust, một cách vô thức… hoặc là do cậu đã xây dựng và đánh giá máy chiến thuật với giả định phải đối phó với nhiều đối thủ cùng lúc – cụ thể là đối phó với nhiều người chơi phe cựu vương khi xâm nhập Third Rem, nói đúng hơn là một mình cậu phải đối phó với số đông.
+
+Nhưng Eclair thì khác.
+
+Tiền đề ban đầu đã khác.
+
+Trong khi đội lính đánh thuê GUN! GUN! dự tính sẽ chiến đấu với "nhiều" người chơi phe cựu vương ở Third Rem, thì chỉ riêng Eclair đã liên tục chuẩn bị với một triết lý: "Nếu có trăm người, thì cứ lặp lại một trăm lần đấu một chọi một."
+Đương nhiên, đối thủ không nhất thiết phải lịch sự chấp nhận đấu 1 đấu 1. Thậm chí còn có khả năng chúng sẽ hăm hở bao vây và đánh hội đồng.
+
+"Mấy loại robot này cũng không tệ nhỉ~! Hệ thống Shanfro đỉnh thật!!"
+
+Đã liệu tính trước tất cả.
+
+Dù có bao nhiêu người đến, dù bị bao vây bởi bao nhiêu người, Eclair vẫn sẽ hạ gục từng người một một cách cẩn thận và nhanh chóng trong các cuộc đối đầu tay đôi. Thiết giáp Eclair số 3 (hay còn gọi là @GGMC) là cỗ máy chiến thuật được tùy chỉnh để tính toán và thực hiện điều đó.
+Vì vậy, thay vì "giảm thiểu tối đa những sự lãng phí phát sinh trong chiến đấu" như Rust, Eclair lại chú trọng "không để xảy ra bất kỳ sự lãng phí nào trong chiến đấu, dù kém hiệu quả đến đâu".
+Nếu phải đối mặt với nhiều người cùng lúc, thì dù có phát sinh nhược điểm là phải chia một chút sự tập trung khỏi trận chiến trước mắt, việc bổ sung tài nguyên tấn công nhanh chóng là cần thiết.
+Nhưng nếu là đấu tay đôi, thì việc tập trung vào né tránh và tấn công bằng tay phải vào kẻ địch mạnh trước mắt sẽ tốt hơn là phải tập trung vào tay trái để nạp đạn.
+
+Sự khác biệt về triết lý thiết kế, và thật trớ trêu, chính vì Rust đã chấp nhận hình thức đấu tay đôi này, và quan trọng hơn cả là Rust đã chọn một cỗ máy chiến thuật chuyên về cận chiến.
+
+"Xin lỗi nhé~… Từ giờ trở đi, tạm thời sẽ là lượt của bên này đó!"
+
+Lợi thế thuộc về đối thủ.
+
+**Lời bạt:**
+
+・Tay máy phụ tự động nạp đạn
+Đây là một cánh tay phụ tự động, tuy rất vật lý, nhưng có thể thay thế việc nạp đạn cho các loại súng cầm tay sử dụng băng đạn hoặc hộp đạn. Việc nó có giá cực kỳ cao là do nó được trang bị chức năng kho đồ riêng (tay máy phụ sẽ lấy đạn từ một không gian lưu trữ nhỏ tích hợp trong chính nó để nạp đạn).
+Mặc dù kém hiệu quả, nhưng người chơi chỉ cần nghĩ đến là nó sẽ bắt đầu nạp đạn, hơn nữa có thể hủy bất cứ lúc nào dù chưa nạp đầy đủ, nên tuy bất tiện nhưng lại tiện lợi.
+
+Ví dụ, Rust muốn hoàn thành việc nạp đạn trong hai giây, dù phải dừng tấn công hai giây. Còn Eclair thì chấp nhận mất năm giây để nạp đạn, nhưng vẫn có thể duy trì tấn công bằng khẩu súng còn lại trong lúc nạp.
+
+Việc cái nào ưu việt hơn hoàn toàn "tùy thuộc vào tình hình", và hiện tại thì Eclair đang có lợi thế.
