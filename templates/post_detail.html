@@ -14,10 +14,10 @@
     <hr>
     <div>
         {% if prev_post %}
-            <a href="{{ url_for('post_detail', post_id=prev_post['id']) }}">⬅ Bài trước</a>
+            <a href="{{ url_for('post_detail', slug=prev_post['id']) }}">⬅ Bài trước</a>
         {% endif %}
         {% if next_post %}
-            <a href="{{ url_for('post_detail', post_id=next_post['id']) }}" style="float: right;">Bài sau ➡</a>
+            <a href="{{ url_for('post_detail', slug=next_post['id']) }}" style="float: right;">Bài sau ➡</a>
         {% endif %}
     </div>
     <br>

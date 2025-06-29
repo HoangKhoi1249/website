@@ -1,6 +1,8 @@
 import os
 import sqlite3
-from flask import Flask, render_template, request
+import re
+from flask import Flask, render_template, request, redirect, url_for, abort
+from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
 DB_PATH = "database.db"
@@ -11,6 +13,13 @@ def get_db_connection():
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     return conn
+
+# -------------------- TẠO SLUG --------------------
+def slugify(text):
+    text = re.sub(r'[\W_]+', '-', text.lower())
+    return text.strip('-')
+
+
 
 # -------------------- IMPORT FILE TXT --------------------
 def import_txt_files():
@@ -24,8 +33,6 @@ def import_txt_files():
 
             title = os.path.splitext(filename)[0]
             file_path = os.path.join(root, filename)
-
-            # Series = tên thư mục cha (so với TXT_FOLDER)
             relative_path = os.path.relpath(file_path, TXT_FOLDER)
             parts = relative_path.split(os.sep)
             series = parts[0] if len(parts) > 1 else "Chưa phân loại"
@@ -33,15 +40,16 @@ def import_txt_files():
             with open(file_path, "r", encoding="utf-8") as f:
                 content = f.read()
 
-            # Tránh trùng tên và series
-            cursor.execute("SELECT id FROM posts WHERE title = ? AND series = ?", (title, series))
+            slug = slugify(title)
+
+            cursor.execute("SELECT id FROM posts WHERE slug = ?", (slug,))
             if cursor.fetchone():
                 continue
 
             cursor.execute("""
-                INSERT INTO posts (title, series, content)
-                VALUES (?, ?, ?)
-            """, (title, series, content))
+                INSERT INTO posts (title, series, content, slug)
+                VALUES (?, ?, ?, ?)
+            """, (title, series, content, slug))
 
     conn.commit()
     conn.close()
@@ -78,23 +86,35 @@ def index():
     return render_template("index.html", posts=posts, page=page, total_pages=total_pages,
                            series_list=series_list, selected_series=selected_series)
 
-@app.route('/post/<int:post_id>')
-def post_detail(post_id):
+# -------------------- ROUTE CHI TIẾT POST --------------------
+@app.route('/post/<slug>')
+def post_detail(slug):
     conn = get_db_connection()
-    post = conn.execute("SELECT * FROM posts WHERE id = ?", (post_id,)).fetchone()
-
-    next_post = conn.execute("SELECT id FROM posts WHERE id > ? ORDER BY id LIMIT 1", (post_id,)).fetchone()
-    prev_post = conn.execute("SELECT id FROM posts WHERE id < ? ORDER BY id DESC LIMIT 1", (post_id,)).fetchone()
-    conn.close()
+    post = conn.execute("SELECT * FROM posts WHERE slug = ?", (slug,)).fetchone()
 
     if not post:
-        return "Bài viết không tồn tại", 404
+        abort(404)
+
+    next_post = conn.execute("SELECT slug FROM posts WHERE id > ? ORDER BY id LIMIT 1", (post['id'],)).fetchone()
+    prev_post = conn.execute("SELECT slug FROM posts WHERE id < ? ORDER BY id DESC LIMIT 1", (post['id'],)).fetchone()
+    conn.close()
 
     return render_template("post_detail.html", post=post, next_post=next_post, prev_post=prev_post)
 
-
 # -------------------- CHẠY IMPORT KHI KHỞI ĐỘNG --------------------
 with app.app_context():
+    conn = get_db_connection()
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS posts (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            title TEXT NOT NULL,
+            series TEXT DEFAULT NULL,
+            content TEXT DEFAULT '',
+            slug TEXT UNIQUE NOT NULL
+        )
+    """)
+    conn.commit()
+    conn.close()
     import_txt_files()
 
 if __name__ == '__main__':

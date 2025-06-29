@@ -29,7 +29,8 @@
 
     {% for post in posts %}
         <div class="post">
-            <a href="{{ url_for('post_detail', post_id=post['id']) }}">
+            <a href="{{ url_for('post_detail', slug=post['slug']) }}">
+
                 <strong>{{ post['title'] }}</strong>
             </a>
             <i>(Bộ: {{ post['series'] or 'Chưa phân loại' }})</i>
